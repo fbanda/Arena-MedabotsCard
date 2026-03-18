@@ -27,7 +27,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kabuto Medal",
+        "name": "Kabuto Medal Lv1",
         "type": "Medal-Lv1",
 		"color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR1_MLPower.png",
@@ -43,7 +43,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Devil Medal",
+        "name": "Devil Medal Lv2",
         "type": "Medal-Lv2",
 		"color": "Blue",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_MLDoubleAttack.png",
@@ -59,7 +59,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kabuto Medal",
+        "name": "Kabuto Medal Lv3",
         "type": "Medal-Lv3",
 		"color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR3_MODamage.png",
