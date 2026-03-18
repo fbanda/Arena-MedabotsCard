@@ -46,7 +46,7 @@
         "name": "Devil Medal",
         "type": "Medal-Lv2",
 		"color": "Blue",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_DoubleAttack.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_MLDoubleAttack.png",
         "isHorizontal": false
       }
     },
@@ -94,7 +94,7 @@
         "name": "Rokusho",
         "type": "Medabot",
 		"color": "Blue",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Rokusho.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/B_Rokusho.png",
         "isHorizontal": false
       }
     },
