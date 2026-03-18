@@ -1,0 +1,137 @@
+{
+  "T1-06": {
+    "id": "T1-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Metabee",
+        "type": "Leader",
+		"color": null,
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/L_Metabee_F.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Metabee (Tinpet)",
+        "type": "Leader",
+		"color": null,
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/L_Metabee_B.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Metabee",
+    "type": "Leader",
+	"color": null
+  },
+  "B1-176": {
+    "id": "B1-176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Medal",
+        "type": "Medal-Lv1",
+		"color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR1_MLPower.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Medal",
+    "type": "Medal-Lv1",
+	"color": "Red"
+  },
+  "B1-195": {
+    "id": "B1-195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devil Medal",
+        "type": "Medal-Lv2",
+		"color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_DoubleAttack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devil Medal",
+    "type": "Medal-Lv2",
+	"color": "Blue"
+  },
+  "B1-182": {
+    "id": "B1-182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Medal",
+        "type": "Medal-Lv3",
+		"color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR3_MODamage.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Medal",
+    "type": "Medal-Lv3",
+	"color": "Red"
+  },
+  "B1-009": {
+    "id": "B1-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metabee",
+        "type": "Medabot",
+		"color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Metabee.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metabee",
+    "type": "Medabot",
+	"color": "Red"
+  },
+  "B1-058": {
+    "id": "B1-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rokusho",
+        "type": "Medabot",
+		"color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Rokusho.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rokusho",
+    "type": "Medabot",
+	"color": "Blue"
+  },
+  "B1-018": {
+    "id": "B1-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ikki Tenryou",
+        "type": "Medafighter",
+		"color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Ikki.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ikki Tenryou",
+    "type": "Medafighter",
+	"color": "Red"
+  },
+  "B1-068": {
+    "id": "B1-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medapart Purchase",
+        "type": "Event",
+		"color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/B_DrawAndWatch.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medapart Purchase",
+    "type": "Event",
+	"color": "Blue"
+  }
+}
