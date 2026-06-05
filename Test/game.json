@@ -42,7 +42,10 @@
             "shuffle",
 			"applyPenalty",
             "draw"
-          ]
+          ],
+		  "selectionRange": {
+	        "min": 6
+		  }
         }
       },
       "newTurn": {
@@ -70,13 +73,11 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
           "content": [
             {
               "section": "Medawatch",
               "style": {
-                "align-self": "center",
-                "margin-bottom": "10px"
+                "align-self": "center"
               }
             },
             {
@@ -86,19 +87,19 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "12vh"
+                    "height": "60%"
                   },
                   "content": [
                     {
                       "section": "Leader",
                       "style": {
-                        "width": "17%"
+                        "width": "12%"
                       }
                     },
                     {
                       "section": "Medabots",
                       "style": {
-                        "width": "83%"
+                        "width": "88%"
                       }
                     }
                   ],
@@ -107,31 +108,31 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "12vh"
+                    "height": "40%"
                   },
                   "content": [
                     {
                       "section": "Medal-Lv1",
                       "style": {
-                        "width": "17%"
+                        "width": "12%"
                       }
                     },
                     {
                       "section": "Medal-Lv2",
                       "style": {
-                        "width": "17%"
+                        "width": "12%"
                       }
                     },
                     {
                       "section": "Medal-Lv3",
                       "style": {
-                        "width": "17%"
+                        "width": "12%"
                       }
                     },
                     {
                       "section": "Others",
                       "style": {
-                        "width": "49%"
+                        "width": "64%"
                       }
                     }
                   ],
@@ -140,8 +141,9 @@
               ],
               "isSymetricalForOpponents": false
             }
-          ]
-        },
+          ],
+          "isSymetricalForOpponents": false,
+		},
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Medal-Lv1",
@@ -282,7 +284,7 @@
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -346,7 +348,7 @@
           "Medabots": {
             "title": "Medabots",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
