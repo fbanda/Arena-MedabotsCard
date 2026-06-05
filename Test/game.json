@@ -40,12 +40,12 @@
           "steps": [
             "toTop",
             "shuffle",
-			"applyPenalty",
+            "applyPenalty",
             "draw"
           ],
-		  "selectionRange": {
-	        "min": 6
-		  }
+          "selectionRange": {
+            "min": 6
+          }
         }
       },
       "newTurn": {
@@ -142,8 +142,8 @@
               "isSymetricalForOpponents": false
             }
           ],
-          "isSymetricalForOpponents": false,
-		},
+          "isSymetricalForOpponents": false
+        },
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Medal-Lv1",
