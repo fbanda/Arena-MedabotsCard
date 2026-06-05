@@ -1,5 +1,5 @@
 {
-  "name": "Medabots Card (Test)",
+  "name": "Medal Clash (Test)",
   "menuBackgroundImage": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/menu_background.png",
   "defaultRessources": {
     "backgrounds": [
@@ -13,7 +13,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/cardlist.json",
-    "cardBack": "https://fbanda.github.io/Arena-MedabotsCard/Test/_Cardback.png"
+    "cardBack": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback.png"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -30,14 +30,23 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "You can mulligan once per game.",
         "startingHandSize": "6",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "You can mulligan to 5 cards, only once.",
+          "steps": [
+            "toTop",
+            "shuffle",
+			"applyPenalty",
+            "draw"
+          ]
+        }
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -140,12 +149,12 @@
           "Medal-Lv3"
         ],
         "autoPlayFromHand": {
-          "Medabots": "Medabots",
+          "Medabot": "Medabots",
           "Medafighter": "Others",
           "Event": "Stack"
         },
         "autoPlayFromStack": {
-          "Medabots": "Medabots",
+          "Medabot": "Medabots",
           "Medafighter": "Others",
           "Event": "Discard"
         },
