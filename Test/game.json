@@ -23,6 +23,7 @@
       {
         "title": "Standard",
         "gameplay": "Classic",
+        "deckRuleset": "Standard",
         "customCategories": []
       }
     ],
