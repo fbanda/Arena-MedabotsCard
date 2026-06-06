@@ -207,7 +207,9 @@
           "content": [
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "width": "5rem"
+              },
               "content": [
                 {
                   "section": "Energy",
