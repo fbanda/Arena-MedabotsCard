@@ -189,7 +189,6 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        0,
         0
       ],
       "hideFacedDownCards": false,
@@ -243,19 +242,19 @@
                     {
                       "section": "Medal-Lv1",
                       "style": {
-                        "width": "6rem"
+                        "width": "7rem"
                       }
                     },
                     {
                       "section": "Medal-Lv2",
                       "style": {
-                        "width": "6rem"
+                        "width": "7rem"
                       }
                     },
                     {
                       "section": "Medal-Lv3",
                       "style": {
-                        "width": "6rem"
+                        "width": "7rem"
                       }
                     },
                     {
@@ -540,6 +539,53 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "Energy": {
+            "type": "custom",
+            "defaultValue": {
+              "current": 0,
+              "max": 0
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "10rem",
+                  "height": "6rem",
+                  "borderRadius": "0.5rem"
+                },
+                "className": "d-flex justify-content-between"
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "d-flex gap-2 align-items-center",
+                    "style": {
+                      "padding": "0.2rem",
+                      "borderRadius": "0.5rem",
+                      "backgroundColor": "#78ff00"
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Energy.current }}",
+                        "style": {
+                          "width": "9rem",
+                          "--input-background-color": "#51aa0b"
+                        }
+                      },
+                      "onChange": "game.data.Energy.current = value; chatLog('Energy changed to ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                    }
+                  ]
+                }
+              ]
+            },
+            "events": {
+              "onNewTurn": "if (game.turn.isMyTurn) { if (game.data.Energy.max < 6) { game.data.Energy.max = game.data.Energy.max + 1 }; game.data.Energy.current = game.data.Energy.max }"
+            }
           }
         }
       }
