@@ -212,8 +212,7 @@
                 {
                   "section": "Energy",
                   "style": {
-                    "width": "auto",
-                    "height": "auto"
+                    "align-self": "center"
                   }
                 },
                 {
@@ -564,9 +563,9 @@
               "type": "div",
               "props": {
                 "style": {
-                  "width": "10rem",
-                  "height": "6rem",
-                  "borderRadius": "0.5rem"
+                  "width": "3rem",
+                  "height": "2rem",
+                  "borderRadius": "0.3rem"
                 },
                 "className": "d-flex justify-content-between"
               },
@@ -576,8 +575,7 @@
                   "props": {
                     "className": "d-flex gap-2 align-items-center",
                     "style": {
-                      "padding": "0.2rem",
-                      "borderRadius": "0.5rem",
+                      "borderRadius": "0.3rem",
                       "backgroundColor": "#78ff00"
                     }
                   },
@@ -587,7 +585,7 @@
                       "props": {
                         "value": "{{ game.data.Energy.current }}",
                         "style": {
-                          "width": "9rem",
+                          "width": "2.4rem",
                           "--input-background-color": "#51aa0b"
                         }
                       },
@@ -598,7 +596,8 @@
               ]
             },
             "events": {
-              "onNewTurn": "if (game.turn.isMyTurn) { if (game.data.Energy.max < 6) { game.data.Energy.max = game.data.Energy.max + 1 }; game.data.Energy.current = game.data.Energy.max }"
+              "onStart": "if (game.turn.isMyTurn) { game.data.Energy.max = 1; game.data.Energy.current = game.data.Energy.max }",
+              "onNewTurn": "if (game.turn.isMyTurn) { if (game.data.Energy.max < 6) { game.data.Energy.max = game.data.Energy.max + 1 }; game.data.Energy.current = game.data.Energy.max; chatLog('Energy restored to ' + game.data.Energy.current ) }"
             }
           }
         }
