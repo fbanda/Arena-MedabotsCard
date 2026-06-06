@@ -25,7 +25,46 @@
         "gameplay": "Classic",
         "customCategories": []
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+          "max": 50,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Leader",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Sideboard",
+            "min": 0,
+            "max": 10
+          }
+        ]
+      }
+    }
   },
   "gameplay": {
     "Classic": {
@@ -51,11 +90,8 @@
       "beforeGameStart": {
         "chooseAnotherStartingPlayer": true
       },
-      "gameStart": {
-        "skipFirstDrawStep": true
-      },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -185,11 +221,12 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "Build",
+              "action": "MOVE",
               "actionData": {
                 "destination": "Leader",
                 "position": "BOTTOM"
-              }
+              },
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
           "Discard": {
