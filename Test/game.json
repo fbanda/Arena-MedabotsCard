@@ -135,14 +135,11 @@
                     {
                       "section": "Leader",
                       "style": {
-                        "width": "20"
+                        "width": "20vw"
                       }
                     },
                     {
-                      "section": "Medabots",
-                      "style": {
-                        "width": "88%"
-                      }
+                      "section": "Medabots"
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -156,19 +153,19 @@
                     {
                       "section": "Medal-Lv1",
                       "style": {
-                        "width": "16"
+                        "width": "16vw"
                       }
                     },
                     {
                       "section": "Medal-Lv2",
                       "style": {
-                        "width": "16"
+                        "width": "16vw"
                       }
                     },
                     {
                       "section": "Medal-Lv3",
                       "style": {
-                        "width": "16"
+                        "width": "16vw"
                       }
                     },
                     {
@@ -336,10 +333,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Leader"
-              },
+              "action": "FLIP",
+              "actionData": {},
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
@@ -352,20 +347,15 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv1)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Leader",
-                "overrideState": {
-                  "isHidden": "yes"
-                }
-              },
+              "action": "FLIP",
+              "actionData": {},
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
@@ -385,13 +375,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Leader",
-                "overrideState": {
-                  "isFlipped": "yes"
-                }
-              },
+              "action": "FLIP",
+              "actionData": {},
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
@@ -411,13 +396,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Medal-Lv3",
-                "overrideState": {
-                  "isFlipped": "yes"
-                }
-              },
+              "action": "FLIP",
+              "actionData": {},
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
