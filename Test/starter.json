@@ -2,19 +2,19 @@
   {
     "title": "Red-Blue Self Damage",
     "id": "MedaStarter1",
-    "game": "Medabots Card (Test)",
+    "game": "Medal Clash (Test)",
     "format": [
       "Standard"
     ],
     "cardCount": 16,
     "createdAt": "2025-11-17T23:06:07.983Z",
     "lastModifiedAt": "2025-11-17T23:09:35.045Z",
-    "decklist": {
+    "deckList": {
       "categoriesOrder": [
         "Leader",
-        "Medal-Lv1",
-        "Medal-Lv2",
-        "Medal-Lv3",
+        "Medal-Lv1-Red",
+        "Medal-Lv2-Blue",
+        "Medal-Lv3-Red",
         "Medabot",
         "Medafighter",
         "Event"
@@ -26,19 +26,19 @@
           "id": "T1-06"
         }
       ],
-      "Medal-Lv1": [
+      "Medal-Lv1-Red": [
         {
           "count": 1,
           "id": "B1-176"
         }
       ],
-      "Medal-Lv2": [
+      "Medal-Lv2-Blue": [
         {
           "count": 1,
           "id": "B1-195"
         }
       ],
-      "Medal-Lv3": [
+      "Medal-Lv3-Red": [
         {
           "count": 1,
           "id": "B1-182"

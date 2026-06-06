@@ -6,21 +6,21 @@
       "front": {
         "name": "Leader Metabee",
         "type": "Leader",
-		"color": null,
+        "color": null,
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/L_Metabee_F.png",
         "isHorizontal": false
       },
       "back": {
         "name": "Leader Metabee (Tinpet)",
         "type": "Leader",
-		"color": null,
+        "color": null,
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/L_Metabee_B.png",
         "isHorizontal": false
       }
     },
     "name": "Leader Metabee",
     "type": "Leader",
-	"color": null
+    "color": null
   },
   "B1-176": {
     "id": "B1-176",
@@ -28,31 +28,31 @@
     "face": {
       "front": {
         "name": "Kabuto Medal Lv1",
-        "type": "Medal-Lv1",
-		"color": "Red",
+        "type": "Medal-Lv1-Red",
+        "color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR1_MLPower.png",
         "isHorizontal": false
       }
     },
     "name": "Kabuto Medal Lv1",
-    "type": "Medal-Lv1",
-	"color": "Red"
+    "type": "Medal-Lv1-Red",
+    "color": "Red"
   },
-  "B1-195": {
-    "id": "B1-195",
+  "B1-181": {
+    "id": "B1-181",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Devil Medal Lv2",
-        "type": "Medal-Lv2",
-		"color": "Blue",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_MLDoubleAttack.png",
+        "name": "Jellyfish Medal Lv2",
+        "type": "Medal-Lv2-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR2_MORemovalP30.png",
         "isHorizontal": false
       }
     },
-    "name": "Devil Medal Lv2",
-    "type": "Medal-Lv2",
-	"color": "Blue"
+    "name": "Jellyfish Medal Lv2",
+    "type": "Medal-Lv2-Red",
+    "color": "Red"
   },
   "B1-182": {
     "id": "B1-182",
@@ -60,15 +60,47 @@
     "face": {
       "front": {
         "name": "Kabuto Medal Lv3",
-        "type": "Medal-Lv3",
-		"color": "Red",
+        "type": "Medal-Lv3-Red",
+        "color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MR3_MODamage.png",
         "isHorizontal": false
       }
     },
     "name": "Kabuto Medal Lv3",
-    "type": "Medal-Lv3",
-	"color": "Red"
+    "type": "Medal-Lv3-Red",
+    "color": "Red"
+  },
+  "B1-192": {
+    "id": "B1-192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alien Medal Lv1",
+        "type": "Medal-Lv1-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB1_MOMedapart.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alien Medal Lv1",
+    "type": "Medal-Lv1-Blue",
+    "color": "Blue"
+  },
+  "B1-195": {
+    "id": "B1-195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devil Medal Lv2",
+        "type": "Medal-Lv2-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/MB2_MLDoubleAttack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devil Medal Lv2",
+    "type": "Medal-Lv2-Blue",
+    "color": "Blue"
   },
   "B1-009": {
     "id": "B1-009",
@@ -77,14 +109,14 @@
       "front": {
         "name": "Metabee",
         "type": "Medabot",
-		"color": "Red",
+        "color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Metabee.png",
         "isHorizontal": false
       }
     },
     "name": "Metabee",
     "type": "Medabot",
-	"color": "Red"
+    "color": "Red"
   },
   "B1-058": {
     "id": "B1-058",
@@ -93,14 +125,14 @@
       "front": {
         "name": "Rokusho",
         "type": "Medabot",
-		"color": "Blue",
+        "color": "Blue",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/B_Rokusho.png",
         "isHorizontal": false
       }
     },
     "name": "Rokusho",
     "type": "Medabot",
-	"color": "Blue"
+    "color": "Blue"
   },
   "B1-018": {
     "id": "B1-018",
@@ -109,14 +141,14 @@
       "front": {
         "name": "Ikki Tenryou",
         "type": "Medafighter",
-		"color": "Red",
+        "color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/R_Ikki.png",
         "isHorizontal": false
       }
     },
     "name": "Ikki Tenryou",
     "type": "Medafighter",
-	"color": "Red"
+    "color": "Red"
   },
   "B1-068": {
     "id": "B1-068",
@@ -125,13 +157,13 @@
       "front": {
         "name": "Medapart Purchase",
         "type": "Event",
-		"color": "Blue",
+        "color": "Blue",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/Test/B_DrawAndWatch.png",
         "isHorizontal": false
       }
     },
     "name": "Medapart Purchase",
     "type": "Event",
-	"color": "Blue"
+    "color": "Blue"
   }
 }
