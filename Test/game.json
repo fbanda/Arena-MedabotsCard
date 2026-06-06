@@ -332,7 +332,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Leader)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -340,6 +340,7 @@
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
               "action": "FLIP",
+              "actionData": {},
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
@@ -357,7 +358,17 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Leader",
+                "overrideState": {
+                  "isHidden": "yes"
+                }
+              },
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
+            }
           },
           "Medal-Lv2": {
             "title": "Medal-Lv2",
@@ -368,12 +379,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv2)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Leader",
+                "overrideState": {
+                  "isFlipped": "yes"
+                }
+              },
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
+            }
           },
           "Medal-Lv3": {
             "title": "Medal-Lv3",
@@ -384,12 +405,22 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv3)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Medal-Lv3",
+                "overrideState": {
+                  "isFlipped": "yes"
+                }
+              },
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
+            }
           },
           "Medabots": {
             "title": "Medabots",
