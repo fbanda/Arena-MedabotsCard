@@ -206,10 +206,24 @@
           "direction": "row",
           "content": [
             {
-              "section": "Medawatch",
-              "style": {
-                "align-self": "center"
-              }
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Energy",
+                  "style": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                },
+                {
+                  "section": "Medawatch",
+                  "style": {
+                    "align-self": "center"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
