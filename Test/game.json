@@ -15,11 +15,21 @@
     "dataUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/cardlist.json",
     "cardBack": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback.png",
     "extraCardBacks": {
-      "Medal-Lv1-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback_MR1.png",
-      "Medal-Lv2-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback_MR2.png",
-      "Medal-Lv3-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback_MR3.png",
-      "Medal-Lv1-Blue": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback_MB1.png",
-      "Medal-Lv2-Blue": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_Cardback_MB2.png"
+      "Medal-Lv1-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MR1.png",
+      "Medal-Lv2-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MR2.png",
+      "Medal-Lv3-Red": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MR3.png",
+      "Medal-Lv1-Purple": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MP1.png",
+      "Medal-Lv2-Purple": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MP2.png",
+      "Medal-Lv3-Purple": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MP3.png",
+      "Medal-Lv1-Blue": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MB1.png",
+      "Medal-Lv2-Blue": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MB2.png",
+      "Medal-Lv3-Blue": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MB3.png",
+      "Medal-Lv1-Green": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MG1.png",
+      "Medal-Lv2-Green": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MG2.png",
+      "Medal-Lv3-Green": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MG3.png",
+      "Medal-Lv1-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MY1.png",
+      "Medal-Lv2-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MY2.png",
+      "Medal-Lv3-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/Test/0_CardBack_MY3.png"
     }
   },
   "deckBuilding": {
@@ -48,20 +58,92 @@
             "maxPerCard": 1
           },
           {
-            "category": "Medal-Lv1",
-            "min": 1,
+            "category": "Medal-Lv1-Red",
+            "min": 0,
             "max": 1,
             "maxPerCard": 1
           },
           {
-            "category": "Medal-Lv2",
-            "min": 1,
+            "category": "Medal-Lv2-Red",
+            "min": 0,
             "max": 1,
             "maxPerCard": 1
           },
           {
-            "category": "Medal-Lv3",
-            "min": 1,
+            "category": "Medal-Lv3-Red",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Yellow",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Yellow",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Yellow",
+            "min": 0,
             "max": 1,
             "maxPerCard": 1
           },
@@ -191,11 +273,20 @@
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Medal-Lv1-Red->Medal-Lv1",
+          "Medal-Lv1-Purple->Medal-Lv1",
           "Medal-Lv1-Blue->Medal-Lv1",
+          "Medal-Lv1-Green->Medal-Lv1",
+          "Medal-Lv1-Yellow->Medal-Lv1",
           "Medal-Lv2-Red->Medal-Lv2",
+          "Medal-Lv2-Purple->Medal-Lv2",
           "Medal-Lv2-Blue->Medal-Lv2",
+          "Medal-Lv2-Green->Medal-Lv2",
+          "Medal-Lv2-Yellow->Medal-Lv2",
           "Medal-Lv3-Red->Medal-Lv3",
-          "Medal-Lv3-Blue->Medal-Lv3"
+          "Medal-Lv3-Purple->Medal-Lv3",
+          "Medal-Lv3-Blue->Medal-Lv3",
+          "Medal-Lv3-Green->Medal-Lv3",
+          "Medal-Lv3-Yellow->Medal-Lv3",
         ],
         "autoPlayFromHand": {
           "Medabot": "Medabots",
