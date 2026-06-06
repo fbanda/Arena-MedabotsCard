@@ -135,7 +135,7 @@
                     {
                       "section": "Leader",
                       "style": {
-                        "width": "12%"
+                        "width": "20"
                       }
                     },
                     {
@@ -156,26 +156,23 @@
                     {
                       "section": "Medal-Lv1",
                       "style": {
-                        "width": "12%"
+                        "width": "16"
                       }
                     },
                     {
                       "section": "Medal-Lv2",
                       "style": {
-                        "width": "12%"
+                        "width": "16"
                       }
                     },
                     {
                       "section": "Medal-Lv3",
                       "style": {
-                        "width": "12%"
+                        "width": "16"
                       }
                     },
                     {
-                      "section": "Others",
-                      "style": {
-                        "width": "64%"
-                      }
+                      "section": "Others"
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -339,8 +336,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "cardActionShortcut": {
-              "action": "FLIP",
-              "actionData": {},
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Leader"
+              },
               "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
             }
           },
