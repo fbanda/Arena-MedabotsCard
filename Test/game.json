@@ -135,7 +135,7 @@
                     {
                       "section": "Leader",
                       "style": {
-                        "width": "20vw"
+                        "width": "14rem"
                       }
                     },
                     {
@@ -153,19 +153,19 @@
                     {
                       "section": "Medal-Lv1",
                       "style": {
-                        "width": "16vw"
+                        "width": "10rem"
                       }
                     },
                     {
                       "section": "Medal-Lv2",
                       "style": {
-                        "width": "16vw"
+                        "width": "10rem"
                       }
                     },
                     {
                       "section": "Medal-Lv3",
                       "style": {
-                        "width": "16vw"
+                        "width": "10rem"
                       }
                     },
                     {
@@ -213,7 +213,17 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Leader",
+                "overrideState": {
+                  "isHidden": true
+                }
+              },
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
+            }
           },
           "Discard": {
             "isDefaultSection": true,
@@ -331,12 +341,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardActionShortcut": {
-              "action": "FLIP",
-              "actionData": {},
-              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
-            }
+            "showHiddenCardInHistory": false
           },
           "Medal-Lv1": {
             "title": "Medal-Lv1",
@@ -352,12 +357,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardActionShortcut": {
-              "action": "FLIP",
-              "actionData": {},
-              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
-            }
+            "showHiddenCardInHistory": false
           },
           "Medal-Lv2": {
             "title": "Medal-Lv2",
@@ -373,12 +373,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardActionShortcut": {
-              "action": "FLIP",
-              "actionData": {},
-              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
-            }
+            "showHiddenCardInHistory": false
           },
           "Medal-Lv3": {
             "title": "Medal-Lv3",
@@ -394,12 +389,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardActionShortcut": {
-              "action": "FLIP",
-              "actionData": {},
-              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
-            }
+            "showHiddenCardInHistory": false
           },
           "Medabots": {
             "title": "Medabots",
@@ -410,7 +400,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medabots)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -426,7 +416,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medafighters)",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
