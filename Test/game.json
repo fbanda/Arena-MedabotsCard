@@ -48,6 +48,12 @@
           }
         }
       },
+      "beforeGameStart": {
+        "chooseAnotherStartingPlayer": true
+      },
+      "gameStart": {
+        "skipFirstDrawStep": true
+      },
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
@@ -177,7 +183,14 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "Build",
+              "actionData": {
+                "destination": "Leader",
+                "position": "BOTTOM"
+              }
+            }
           },
           "Discard": {
             "isDefaultSection": true,
