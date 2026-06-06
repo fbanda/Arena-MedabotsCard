@@ -219,15 +219,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "cardActionShortcut": {
-              "action": "MOVE",
-              "actionData": {
-                "destination": "Leader",
-                "position": "BOTTOM"
-              },
-              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
-            }
+            "showHiddenCardInHistory": false
           },
           "Discard": {
             "isDefaultSection": true,
@@ -345,7 +337,11 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+              "action": "FLIP",
+              "image": "https://cdn.imgchest.com/files/b6885d7475b5.png"
+            }
           },
           "Medal-Lv1": {
             "title": "Medal-Lv1",
