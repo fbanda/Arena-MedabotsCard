@@ -159,7 +159,6 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "triggeredByButton": true,
         "startingHandSize": "6",
         "mulliganCount": {
           "min": 0,
@@ -182,7 +181,7 @@
         "chooseAnotherStartingPlayer": true
       },
       "newTurn": {
-        "drawOnStart": false,
+        "drawOnStart": true,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
