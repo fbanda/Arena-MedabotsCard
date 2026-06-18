@@ -159,6 +159,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
+        "triggeredByButton": true,
         "startingHandSize": "6",
         "mulliganCount": {
           "min": 0,
@@ -598,6 +599,7 @@
               ]
             },
             "events": {
+              "onStart": "chatLog('onStart'); if (game.turn.isMyTurn) { chatLog('onStart Turn player') }",
               "onNewTurn": "chatLog('onNewTurn'); if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6) ; game.data.Energy.current = game.data.Energy.max; chatLog('Energy now restored to ' + game.data.Energy.current ) }"
             }
           }
