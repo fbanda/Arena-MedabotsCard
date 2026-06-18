@@ -179,7 +179,7 @@
         }
       },
       "beforeGameStart": {
-        "chooseAnotherStartingPlayer": false
+        "chooseAnotherStartingPlayer": true
       },
       "newTurn": {
         "drawOnStart": false,
