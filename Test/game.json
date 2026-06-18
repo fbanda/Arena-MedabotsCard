@@ -178,7 +178,7 @@
         }
       },
       "beforeGameStart": {
-        "chooseAnotherStartingPlayer": true
+        "chooseAnotherStartingPlayer": false
       },
       "newTurn": {
         "drawOnStart": false,
@@ -598,8 +598,7 @@
               ]
             },
             "events": {
-              "onStart": "chatLog('onStart'); if (game.turn.isMyTurn) { game.data.Energy.max = 1; game.data.Energy.current = game.data.Energy.max; chatLog('onStart: Energy set to 1') }",
-              "onNewTurn": "if (game.turn.isMyTurn) { if (game.data.Energy.max < 6) { game.data.Energy.max = game.data.Energy.max + 1 }; game.data.Energy.current = game.data.Energy.max; chatLog('Energy now restored to ' + game.data.Energy.current ) }"
+              "onNewTurn": "chatLog('onNewTurn'); if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6) ; game.data.Energy.current = game.data.Energy.max; chatLog('Energy now restored to ' + game.data.Energy.current ) }"
             }
           }
         }
