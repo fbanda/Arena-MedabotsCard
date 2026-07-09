@@ -292,14 +292,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ikki Tenryou (CORE)",
+        "name": "Ikki Tenryou (CORE R)",
         "type": "Medafighter",
         "color": "Red",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-019.png",
         "isHorizontal": false
       }
     },
-    "name": "Ikki Tenryou (CORE)",
+    "name": "Ikki Tenryou (CORE R)",
     "type": "Medafighter",
     "color": "Red"
   },
@@ -2660,14 +2660,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ikki Tenryou (CORE)",
+        "name": "Ikki Tenryou (CORE R/B)",
         "type": "Medafighter",
         "color": "Red/Blue",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-167.png",
         "isHorizontal": false
       }
     },
-    "name": "Ikki Tenryou (CORE)",
+    "name": "Ikki Tenryou (CORE R/B)",
     "type": "Medafighter",
     "color": "Red/Blue"
   },
@@ -3566,7 +3566,7 @@
         "name": "Leader Peppercat (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01b.png",
         "isHorizontal": false
       }
     },
@@ -3589,7 +3589,7 @@
         "name": "Leader Belzelga (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02b.png",
         "isHorizontal": false
       }
     },
@@ -3612,7 +3612,7 @@
         "name": "Leader Fligflag (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03b.png",
         "isHorizontal": false
       }
     },
@@ -3635,7 +3635,7 @@
         "name": "Leader Gokudo (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04b.png",
         "isHorizontal": false
       }
     },
@@ -3658,7 +3658,7 @@
         "name": "Leader Toybox (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05b.png",
         "isHorizontal": false
       }
     },
@@ -3681,7 +3681,7 @@
         "name": "Leader Metabee (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06b.png",
         "isHorizontal": false
       }
     },
@@ -3704,7 +3704,7 @@
         "name": "Leader Warbandit (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07b.png",
         "isHorizontal": false
       }
     },
@@ -3727,7 +3727,7 @@
         "name": "Leader Rokusho (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08b.png",
         "isHorizontal": false
       }
     },
@@ -3750,7 +3750,7 @@
         "name": "Leader Neutranurse (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09b.png",
         "isHorizontal": false
       }
     },
@@ -3773,7 +3773,7 @@
         "name": "Leader Seagaru (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10b.png",
         "isHorizontal": false
       }
     },
@@ -3796,7 +3796,7 @@
         "name": "Leader Saldron (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11b.png",
         "isHorizontal": false
       }
     },
@@ -3819,7 +3819,7 @@
         "name": "Leader Sailor-Multi (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12b.png",
         "isHorizontal": false
       }
     },
@@ -3842,7 +3842,7 @@
         "name": "Leader Sumilidon (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13b.png",
         "isHorizontal": false
       }
     },
@@ -3865,7 +3865,7 @@
         "name": "Leader Attack-Tyrano (CORE) Tinpet",
         "type": "Leader",
         "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14.png",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14b.png",
         "isHorizontal": false
       }
     },
@@ -3882,351 +3882,6 @@
         "type": "Leader",
         "color": "Colorless",
         "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-15.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Mega-Emperor (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-15.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Mega-Emperor (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1951": {
-    "id": "1951",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Peppercat (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Peppercat (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Peppercat (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1952": {
-    "id": "1952",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Belzelga (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Belzelga (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Belzelga (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1953": {
-    "id": "1953",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Fligflag (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Fligflag (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Fligflag (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1954": {
-    "id": "1954",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Gokudo (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Gokudo (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Gokudo (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1955": {
-    "id": "1955",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Toybox (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Toybox (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Toybox (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1956": {
-    "id": "1956",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Metabee (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Metabee (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Metabee (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1957": {
-    "id": "1957",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Warbandit (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Warbandit (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Warbandit (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1958": {
-    "id": "1958",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Rokusho (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Rokusho (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Rokusho (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1959": {
-    "id": "1959",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Neutranurse (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Neutranurse (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Neutranurse (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1960": {
-    "id": "1960",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Seagaru (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Seagaru (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Seagaru (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1961": {
-    "id": "1961",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Saldron (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Saldron (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Saldron (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1962": {
-    "id": "1962",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Sailor-Multi (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Sailor-Multi (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Sailor-Multi (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1963": {
-    "id": "1963",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Sumilidon (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Sumilidon (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Sumilidon (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1964": {
-    "id": "1964",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Attack-Tyrano (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14b.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "Leader Attack-Tyrano (CORE) Tinpet",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14b.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Leader Attack-Tyrano (CORE)",
-    "type": "Leader",
-    "color": "Colorless"
-  },
-  "1965": {
-    "id": "1965",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Leader Mega-Emperor (CORE)",
-        "type": "Leader",
-        "color": "Colorless",
-        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-15b.png",
         "isHorizontal": false
       },
       "back": {
