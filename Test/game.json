@@ -3,6 +3,7 @@
   "menuBackgroundImage": "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaBanner.png",
   "defaultRessources": {
     "backgrounds": [
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat1.jpg"
     ],
     "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/starter.json"
   },
