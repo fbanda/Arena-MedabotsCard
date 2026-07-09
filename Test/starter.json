@@ -1,12 +1,12 @@
 [
   {
     "title": "Red-Blue Self Damage",
-    "id": "MedaStarter1",
+    "id": "DefaultStarterCORE06",
     "game": "Medal Clash (Test)",
     "format": [
       "Standard"
     ],
-    "cardCount": 16,
+    "cardCount": 44,
     "createdAt": "2025-11-17T23:06:07.983Z",
     "lastModifiedAt": "2025-11-17T23:09:35.045Z",
     "deckList": {
@@ -23,47 +23,91 @@
       "Leader": [
         {
           "count": 1,
-          "id": "T1-06"
+          "id": "1906"
         }
       ],
       "Medal-Lv1-Red": [
         {
           "count": 1,
-          "id": "B1-176"
+          "id": "1176"
         }
       ],
       "Medal-Lv2-Blue": [
         {
           "count": 1,
-          "id": "B1-195"
+          "id": "1197"
         }
       ],
       "Medal-Lv3-Red": [
         {
           "count": 1,
-          "id": "B1-182"
+          "id": "1182"
         }
       ],
       "Medabot": [
         {
           "count": 3,
-          "id": "B1-009"
+          "id": "1001"
         },
         {
           "count": 3,
-          "id": "B1-058"
+          "id": "1048"
+        },
+        {
+          "count": 2,
+          "id": "1116"
+        },
+        {
+          "count": 3,
+          "id": "1003"
+        },
+        {
+          "count": 3,
+          "id": "1166"
+        },
+        {
+          "count": 2,
+          "id": "1051"
+        },
+        {
+          "count": 2,
+          "id": "1118"
+        },
+        {
+          "count": 3,
+          "id": "1058"
+        },
+        {
+          "count": 3,
+          "id": "1009"
+        },
+        {
+          "count": 2,
+          "id": "1060"
+        },
+        {
+          "count": 3,
+          "id": "1059"
+        },
+        {
+          "count": 3,
+          "id": "1011"
         }
       ],
       "Medafighter": [
         {
-          "count": 3,
-          "id": "B1-018"
+          "count": 2,
+          "id": "1065"
+        },
+        {
+          "count": 2,
+          "id": "1167"
         }
       ],
       "Event": [
         {
-          "count": 3,
-          "id": "B1-068"
+          "count": 2,
+          "id": "1022"
         }
       ]
     }
