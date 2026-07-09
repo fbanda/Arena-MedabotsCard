@@ -4,9 +4,9 @@
   "defaultRessources": {
     "backgrounds": [
 		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat1.jpg",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat2.jpg",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat3.jpg",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat4.jpg"
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat2.png",
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat3.png",
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat4.png"
     ],
     "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/starter.json"
   },
