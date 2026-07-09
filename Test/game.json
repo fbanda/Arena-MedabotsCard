@@ -1,11 +1,8 @@
 {
   "name": "Medal Clash (Test)",
-  "menuBackgroundImage": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/menu_background.png",
+  "menuBackgroundImage": "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaBanner.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/goku_bg1.jpg",
-      "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/goku_bg2.jpg",
-      "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/vegito_bg1.jpg"
     ],
     "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/starter.json"
   },
