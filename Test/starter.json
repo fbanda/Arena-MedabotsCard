@@ -7,8 +7,6 @@
       "Standard"
     ],
     "cardCount": 44,
-    "createdAt": "2025-11-17T23:06:07.983Z",
-    "lastModifiedAt": "2025-11-17T23:09:35.045Z",
     "deckList": {
       "categoriesOrder": [
         "Leader",
@@ -66,7 +64,7 @@
           "id": "1166"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "1051"
         },
         {
@@ -82,7 +80,7 @@
           "id": "1009"
         },
         {
-          "count": 2,
+          "count": 3,
           "id": "1060"
         },
         {

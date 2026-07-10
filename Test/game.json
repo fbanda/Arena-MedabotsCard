@@ -308,11 +308,13 @@
         "autoPlayFromHand": {
           "Medabot": "Medabots",
           "Medafighter": "Others",
+		  "Medapart": "Medabots",
           "Event": "Stack"
         },
         "autoPlayFromStack": {
           "Medabot": "Medabots",
           "Medafighter": "Others",
+		  "Medapart": "Medabots",
           "Event": "Discard"
         },
         "sectionsDict": {
