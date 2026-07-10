@@ -301,7 +301,10 @@
     },
     "name": "Ikki Tenryou (CORE R)",
     "type": "Medafighter",
-    "color": "Red"
+    "color": "Red",
+    "tokens": [
+      "1805.1"
+    ]
   },
   "1020": {
     "id": "1020",
@@ -493,7 +496,10 @@
     },
     "name": "Gorem (CORE)",
     "type": "Medabot",
-    "color": "Purple"
+    "color": "Purple",
+    "tokens": [
+      "1802"
+    ]
   },
   "1032": {
     "id": "1032",
@@ -637,7 +643,11 @@
     },
     "name": "Shrimplips (CORE)",
     "type": "Medafighter",
-    "color": "Purple"
+    "color": "Purple",
+    "tokens": [
+      "1804",
+      "1805.1"
+    ]
   },
   "1041": {
     "id": "1041",
@@ -701,7 +711,10 @@
     },
     "name": "Hostage Situation (CORE)",
     "type": "Event",
-    "color": "Purple"
+    "color": "Purple",
+    "tokens": [
+      "1804"
+    ]
   },
   "1045": {
     "id": "1045",
@@ -941,7 +954,10 @@
     },
     "name": "Solin (CORE)",
     "type": "Medabot",
-    "color": "Blue"
+    "color": "Blue",
+    "tokens": [
+      "1805.1"
+    ]
   },
   "1060": {
     "id": "1060",
@@ -1101,7 +1117,10 @@
     },
     "name": "Select Corps to the Rescue (CORE)",
     "type": "Event",
-    "color": "Blue"
+    "color": "Blue",
+    "tokens": [
+      "1803"
+    ]
   },
   "1070": {
     "id": "1070",
@@ -1437,7 +1456,10 @@
     },
     "name": "Ant Caves (CORE)",
     "type": "Event",
-    "color": "Green"
+    "color": "Green",
+    "tokens": [
+      "1801"
+    ]
   },
   "1091": {
     "id": "1091",
@@ -1501,7 +1523,10 @@
     },
     "name": "Antacker (CORE)",
     "type": "Medabot",
-    "color": "Yellow"
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
   },
   "1095": {
     "id": "1095",
@@ -1997,7 +2022,10 @@
     },
     "name": "Mcdosnake (CORE)",
     "type": "Medabot",
-    "color": "Purple"
+    "color": "Purple",
+    "tokens": [
+      "1802"
+    ]
   },
   "1126": {
     "id": "1126",
@@ -2029,7 +2057,10 @@
     },
     "name": "Wildfire (CORE)",
     "type": "Medabot",
-    "color": "Purple"
+    "color": "Purple",
+    "tokens": [
+      "1805.1"
+    ]
   },
   "1128": {
     "id": "1128",
@@ -2173,7 +2204,10 @@
     },
     "name": "Lt. Tokkuri (CORE)",
     "type": "Medafighter",
-    "color": "Blue"
+    "color": "Blue",
+    "tokens": [
+      "1803"
+    ]
   },
   "1137": {
     "id": "1137",
@@ -2381,7 +2415,10 @@
     },
     "name": "Antoldier (CORE)",
     "type": "Medabot",
-    "color": "Yellow"
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
   },
   "1150": {
     "id": "1150",
@@ -2605,7 +2642,10 @@
     },
     "name": "Spitfire (CORE)",
     "type": "Medabot",
-    "color": "Green/Yellow"
+    "color": "Green/Yellow",
+    "tokens": [
+      "1801"
+    ]
   },
   "1164": {
     "id": "1164",
@@ -2653,7 +2693,11 @@
     },
     "name": "Rappy (CORE)",
     "type": "Medabot",
-    "color": "Red/Blue"
+    "color": "Red/Blue",
+    "tokens": [
+      "1805.2",
+      "1806.2"
+    ]
   },
   "1167": {
     "id": "1167",
@@ -3069,7 +3113,10 @@
     },
     "name": "Alien Medal Lv1 (CORE)",
     "type": "Medal-Lv1-Blue",
-    "color": "Blue"
+    "color": "Blue",
+    "tokens": [
+      "1805.1"
+    ]
   },
   "1193": {
     "id": "1193",
@@ -3341,7 +3388,10 @@
     },
     "name": "Bat Medal Lv1 (CORE)",
     "type": "Medal-Lv1-Yellow",
-    "color": "Yellow"
+    "color": "Yellow",
+    "tokens": [
+      "1805.1"
+    ]
   },
   "1210": {
     "id": "1210",
@@ -3357,7 +3407,10 @@
     },
     "name": "Dragon Medal Lv1 (CORE)",
     "type": "Medal-Lv1-Yellow",
-    "color": "Yellow"
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
   },
   "1211": {
     "id": "1211",
@@ -3894,6 +3947,54 @@
     },
     "name": "Leader Mega-Emperor (CORE)",
     "type": "Leader",
+    "color": "Colorless"
+  },
+  "1805.1": {
+    "id": "1805.1",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Hammer (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-5_1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hammer (CORE)",
+    "type": "Medapart",
+    "color": "Colorless"
+  },
+  "1805.2": {
+    "id": "1805.2",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Right Balloon (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-5_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Right Balloon (CORE)",
+    "type": "Medapart",
+    "color": "Colorless"
+  },
+  "1806.2": {
+    "id": "1806.2",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Left Balloon (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-6_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Left Balloon (CORE)",
+    "type": "Medapart",
     "color": "Colorless"
   }
 }
