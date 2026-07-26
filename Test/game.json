@@ -10,7 +10,7 @@
     ],
     "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/starter.json"
   },
-  "customHelp": "",
+  "customHelp": "To build a Leader:\n1. Hide a card in your hand: Right-click -> Hide -OR- Z + Click.\n2. Move the hidden card under your Leader: Right-click -> Group -> Click on Leader -OR- G + Click + Click on Leader.\n3. Flip the Leader: Right-click -> Flip -OR- Ctrl+Z + Click.\n\nTo unbuild a Leader:\n1. Move the card under your Leader to your trash: Drag\n2. Flip the Leader: Right-click -> Flip -OR- Ctrl+Z + Click.\n\nFor more information and individual card rulings go to: https://fbanda.github.io/MedalClashWeb/\n\nTo reveal a Medal: Right-click -> Reveal -OR- Z + Click\n\nTo play a Medapart: Right-click -> Group -> Click on Equipped Medabot -OR- G + Click + Click on Equipped Medabot.\nWhen playing from the Medawatch, first Drag or Click -> Search -> Play.\n\nEnergy and damage:\nUse arrows or write the number to change.\nEnergy is reset automatically each turn.",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://fbanda.github.io/Arena-MedabotsCard/Test/cardlist.json",
