@@ -1,0 +1,1116 @@
+[
+  {
+    "title": "Red-Purple Destruction",
+    "id": "DefaultStarterCORE01",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Purple",
+        "Medal-Lv2-Red",
+        "Medal-Lv3-Purple",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1907"
+        }
+      ],
+      "Medal-Lv1-Purple": [
+        {
+          "count": 1,
+          "id": "1184"
+        }
+      ],
+      "Medal-Lv2-Red": [
+        {
+          "count": 1,
+          "id": "1181"
+        }
+      ],
+      "Medal-Lv3-Purple": [
+        {
+          "count": 1,
+          "id": "1191"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1124"
+        },
+        {
+          "count": 2,
+          "id": "1025"
+        },
+        {
+          "count": 3,
+          "id": "1026"
+        },
+        {
+          "count": 3,
+          "id": "1125"
+        },
+        {
+          "count": 3,
+          "id": "1005"
+        },
+        {
+          "count": 3,
+          "id": "1127"
+        },
+        {
+          "count": 3,
+          "id": "1031"
+        },
+        {
+          "count": 2,
+          "id": "1034"
+        },
+        {
+          "count": 2,
+          "id": "1014"
+        },
+        {
+          "count": 2,
+          "id": "1038"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1040"
+        },
+        {
+          "count": 3,
+          "id": "1156"
+        }
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "1044"
+        },
+        {
+          "count": 2,
+          "id": "1022"
+        },
+        {
+          "count": 2,
+          "id": "1131"
+        },
+        {
+          "count": 2,
+          "id": "1157"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Purple-Blue Heating",
+    "id": "DefaultStarterCORE02",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Blue",
+        "Medal-Lv2-Purple",
+        "Medal-Lv3-Blue",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1914"
+        }
+      ],
+      "Medal-Lv1-Blue": [
+        {
+          "count": 1,
+          "id": "1193"
+        }
+      ],
+      "Medal-Lv2-Purple": [
+        {
+          "count": 1,
+          "id": "1189"
+        }
+      ],
+      "Medal-Lv3-Blue": [
+        {
+          "count": 1,
+          "id": "1198"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1049"
+        },
+        {
+          "count": 3,
+          "id": "1026"
+        },
+        {
+          "count": 3,
+          "id": "1052"
+        },
+        {
+          "count": 3,
+          "id": "1028"
+        },
+        {
+          "count": 3,
+          "id": "1054"
+        },
+        {
+          "count": 3,
+          "id": "1057"
+        },
+        {
+          "count": 2,
+          "id": "1059"
+        },
+        {
+          "count": 3,
+          "id": "1158"
+        },
+        {
+          "count": 2,
+          "id": "1135"
+        },
+        {
+          "count": 3,
+          "id": "1037"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1136"
+        },
+        {
+          "count": 3,
+          "id": "1041"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1069"
+        },
+        {
+          "count": 3,
+          "id": "1044"
+        },
+        {
+          "count": 2,
+          "id": "1159"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Blue-Green Evasion",
+    "id": "DefaultStarterCORE03",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Green",
+        "Medal-Lv2-Green",
+        "Medal-Lv3-Blue",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1903"
+        }
+      ],
+      "Medal-Lv1-Green": [
+        {
+          "count": 1,
+          "id": "1200"
+        }
+      ],
+      "Medal-Lv2-Green": [
+        {
+          "count": 1,
+          "id": "1205"
+        }
+      ],
+      "Medal-Lv3-Blue": [
+        {
+          "count": 1,
+          "id": "1199"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 2,
+          "id": "1160"
+        },
+        {
+          "count": 3,
+          "id": "1161"
+        },
+        {
+          "count": 3,
+          "id": "1048"
+        },
+        {
+          "count": 3,
+          "id": "1050"
+        },
+        {
+          "count": 3,
+          "id": "1074"
+        },
+        {
+          "count": 3,
+          "id": "1076"
+        },
+        {
+          "count": 3,
+          "id": "1077"
+        },
+        {
+          "count": 2,
+          "id": "1078"
+        },
+        {
+          "count": 3,
+          "id": "1057"
+        },
+        {
+          "count": 3,
+          "id": "1061"
+        },
+        {
+          "count": 2,
+          "id": "1081"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1145"
+        }
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "1088"
+        },
+        {
+          "count": 3,
+          "id": "1146"
+        },
+        {
+          "count": 2,
+          "id": "1147"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Green-Yellow Support",
+    "id": "DefaultStarterCORE04",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Yellow",
+        "Medal-Lv2-Yellow",
+        "Medal-Lv3-Green",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1904"
+        }
+      ],
+      "Medal-Lv1-Yellow": [
+        {
+          "count": 1,
+          "id": "1210"
+        }
+      ],
+      "Medal-Lv2-Yellow": [
+        {
+          "count": 1,
+          "id": "1211"
+        }
+      ],
+      "Medal-Lv3-Green": [
+        {
+          "count": 1,
+          "id": "1207"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1094"
+        },
+        {
+          "count": 3,
+          "id": "1074"
+        },
+        {
+          "count": 3,
+          "id": "1098"
+        },
+        {
+          "count": 3,
+          "id": "1162"
+        },
+        {
+          "count": 3,
+          "id": "1076"
+        },
+        {
+          "count": 3,
+          "id": "1148"
+        },
+        {
+          "count": 3,
+          "id": "1149"
+        },
+        {
+          "count": 3,
+          "id": "1078"
+        },
+        {
+          "count": 2,
+          "id": "1150"
+        },
+        {
+          "count": 2,
+          "id": "1104"
+        },
+        {
+          "count": 2,
+          "id": "1163"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 3,
+          "id": "1084"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1090"
+        },
+        {
+          "count": 3,
+          "id": "1091"
+        },
+        {
+          "count": 2,
+          "id": "1112"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Yellow-Red Wheeled",
+    "id": "DefaultStarterCORE05",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Yellow",
+        "Medal-Lv2-Red",
+        "Medal-Lv3-Yellow",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1905"
+        }
+      ],
+      "Medal-Lv1-Yellow": [
+        {
+          "count": 1,
+          "id": "1209"
+        }
+      ],
+      "Medal-Lv2-Red": [
+        {
+          "count": 1,
+          "id": "1181"
+        }
+      ],
+      "Medal-Lv3-Yellow": [
+        {
+          "count": 1,
+          "id": "1215"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1093"
+        },
+        {
+          "count": 3,
+          "id": "1164"
+        },
+        {
+          "count": 3,
+          "id": "1001"
+        },
+        {
+          "count": 3,
+          "id": "1003"
+        },
+        {
+          "count": 3,
+          "id": "1004"
+        },
+        {
+          "count": 2,
+          "id": "1099"
+        },
+        {
+          "count": 3,
+          "id": "1149"
+        },
+        {
+          "count": 3,
+          "id": "1102"
+        },
+        {
+          "count": 3,
+          "id": "1006"
+        },
+        {
+          "count": 3,
+          "id": "1010"
+        },
+        {
+          "count": 2,
+          "id": "1150"
+        },
+        {
+          "count": 3,
+          "id": "1165"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1052"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1112"
+        },
+        {
+          "count": 2,
+          "id": "1115"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Red-Blue Self Damage",
+    "id": "DefaultStarterCORE06",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Red",
+        "Medal-Lv2-Blue",
+        "Medal-Lv3-Red",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1906"
+        }
+      ],
+      "Medal-Lv1-Red": [
+        {
+          "count": 1,
+          "id": "1176"
+        }
+      ],
+      "Medal-Lv2-Blue": [
+        {
+          "count": 1,
+          "id": "1197"
+        }
+      ],
+      "Medal-Lv3-Red": [
+        {
+          "count": 1,
+          "id": "1182"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1001"
+        },
+        {
+          "count": 3,
+          "id": "1048"
+        },
+        {
+          "count": 2,
+          "id": "1116"
+        },
+        {
+          "count": 3,
+          "id": "1003"
+        },
+        {
+          "count": 3,
+          "id": "1166"
+        },
+        {
+          "count": 3,
+          "id": "1051"
+        },
+        {
+          "count": 2,
+          "id": "1118"
+        },
+        {
+          "count": 3,
+          "id": "1058"
+        },
+        {
+          "count": 3,
+          "id": "1009"
+        },
+        {
+          "count": 3,
+          "id": "1060"
+        },
+        {
+          "count": 3,
+          "id": "1059"
+        },
+        {
+          "count": 3,
+          "id": "1011"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1065"
+        },
+        {
+          "count": 2,
+          "id": "1167"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1022"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Blue-Yellow Medaparts",
+    "id": "DefaultStarterCORE07",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Blue",
+        "Medal-Lv2-Blue",
+        "Medal-Lv3-Yellow",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1911"
+        }
+      ],
+      "Medal-Lv1-Blue": [
+        {
+          "count": 1,
+          "id": "1192"
+        }
+      ],
+      "Medal-Lv2-Blue": [
+        {
+          "count": 1,
+          "id": "1195"
+        }
+      ],
+      "Medal-Lv3-Yellow": [
+        {
+          "count": 1,
+          "id": "1214"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1048"
+        },
+        {
+          "count": 3,
+          "id": "1132"
+        },
+        {
+          "count": 2,
+          "id": "1049"
+        },
+        {
+          "count": 3,
+          "id": "1050"
+        },
+        {
+          "count": 2,
+          "id": "1051"
+        },
+        {
+          "count": 3,
+          "id": "1168"
+        },
+        {
+          "count": 3,
+          "id": "1053"
+        },
+        {
+          "count": 3,
+          "id": "1134"
+        },
+        {
+          "count": 3,
+          "id": "1169"
+        },
+        {
+          "count": 3,
+          "id": "1058"
+        },
+        {
+          "count": 2,
+          "id": "1103"
+        },
+        {
+          "count": 2,
+          "id": "1059"
+        },
+        {
+          "count": 3,
+          "id": "1107"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 3,
+          "id": "1064"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1113"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Yellow-Purple Rubberobo Gang",
+    "id": "DefaultStarterCORE08",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Yellow",
+        "Medal-Lv2-Purple",
+        "Medal-Lv3-Purple",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1915"
+        }
+      ],
+      "Medal-Lv1-Yellow": [
+        {
+          "count": 1,
+          "id": "1208"
+        }
+      ],
+      "Medal-Lv2-Purple": [
+        {
+          "count": 1,
+          "id": "1188"
+        }
+      ],
+      "Medal-Lv3-Purple": [
+        {
+          "count": 1,
+          "id": "1190"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1025"
+        },
+        {
+          "count": 3,
+          "id": "1096"
+        },
+        {
+          "count": 3,
+          "id": "1026"
+        },
+        {
+          "count": 3,
+          "id": "1125"
+        },
+        {
+          "count": 3,
+          "id": "1170"
+        },
+        {
+          "count": 3,
+          "id": "1031"
+        },
+        {
+          "count": 2,
+          "id": "1100"
+        },
+        {
+          "count": 2,
+          "id": "1126"
+        },
+        {
+          "count": 3,
+          "id": "1104"
+        },
+        {
+          "count": 3,
+          "id": "1034"
+        },
+        {
+          "count": 2,
+          "id": "1128"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 2,
+          "id": "1039"
+        },
+        {
+          "count": 3,
+          "id": "1040"
+        },
+        {
+          "count": 2,
+          "id": "1071"
+        }
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "1044"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Purple-Green Zodiac",
+    "id": "DefaultStarterCORE09",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Purple",
+        "Medal-Lv2-Green",
+        "Medal-Lv3-Green",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1910"
+        }
+      ],
+      "Medal-Lv1-Purple": [
+        {
+          "count": 1,
+          "id": "1184"
+        }
+      ],
+      "Medal-Lv2-Green": [
+        {
+          "count": 1,
+          "id": "1203"
+        }
+      ],
+      "Medal-Lv3-Green": [
+        {
+          "count": 1,
+          "id": "1206"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 2,
+          "id": "1140"
+        },
+        {
+          "count": 3,
+          "id": "1024"
+        },
+        {
+          "count": 3,
+          "id": "1071"
+        },
+        {
+          "count": 3,
+          "id": "1073"
+        },
+        {
+          "count": 3,
+          "id": "1027"
+        },
+        {
+          "count": 2,
+          "id": "1029"
+        },
+        {
+          "count": 3,
+          "id": "1080"
+        },
+        {
+          "count": 3,
+          "id": "1030"
+        },
+        {
+          "count": 3,
+          "id": "1143"
+        },
+        {
+          "count": 2,
+          "id": "1172"
+        },
+        {
+          "count": 3,
+          "id": "1035"
+        },
+        {
+          "count": 3,
+          "id": "1173"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 3,
+          "id": "1084"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "1088"
+        },
+        {
+          "count": 2,
+          "id": "1146"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Green-Red Damage Trigger",
+    "id": "DefaultStarterCORE10",
+    "game": "Medal Clash",
+    "format": [
+      "Standard"
+    ],
+    "cardCount": 44,
+    "deckList": {
+      "categoriesOrder": [
+        "Leader",
+        "Medal-Lv1-Red",
+        "Medal-Lv2-Green",
+        "Medal-Lv3-Red",
+        "Medabot",
+        "Medafighter",
+        "Event"
+      ],
+      "Sideboard": [],
+      "Leader": [
+        {
+          "count": 1,
+          "id": "1902"
+        }
+      ],
+      "Medal-Lv1-Red": [
+        {
+          "count": 1,
+          "id": "1178"
+        }
+      ],
+      "Medal-Lv2-Green": [
+        {
+          "count": 1,
+          "id": "1204"
+        }
+      ],
+      "Medal-Lv3-Red": [
+        {
+          "count": 1,
+          "id": "1183"
+        }
+      ],
+      "Medabot": [
+        {
+          "count": 3,
+          "id": "1070"
+        },
+        {
+          "count": 2,
+          "id": "1001"
+        },
+        {
+          "count": 3,
+          "id": "1072"
+        },
+        {
+          "count": 3,
+          "id": "1002"
+        },
+        {
+          "count": 2,
+          "id": "1075"
+        },
+        {
+          "count": 3,
+          "id": "1003"
+        },
+        {
+          "count": 3,
+          "id": "1174"
+        },
+        {
+          "count": 2,
+          "id": "1079"
+        },
+        {
+          "count": 3,
+          "id": "1009"
+        },
+        {
+          "count": 2,
+          "id": "1083"
+        },
+        {
+          "count": 3,
+          "id": "1011"
+        },
+        {
+          "count": 3,
+          "id": "1175"
+        },
+        {
+          "count": 2,
+          "id": "1012"
+        }
+      ],
+      "Medafighter": [
+        {
+          "count": 3,
+          "id": "1085"
+        }
+      ],
+      "Event": [
+        {
+          "count": 3,
+          "id": "1091"
+        }
+      ]
+    }
+  }
+]

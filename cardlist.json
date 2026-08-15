@@ -1,0 +1,4000 @@
+{
+  "1001": {
+    "id": "1001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spector (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-001.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spector (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1002": {
+    "id": "1002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charlie Bear (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-002.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charlie Bear (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1003": {
+    "id": "1003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sailor-Multi (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-003.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sailor-Multi (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1004": {
+    "id": "1004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabotina (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-004.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabotina (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1005": {
+    "id": "1005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desperado (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-005.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desperado (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1006": {
+    "id": "1006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Face Lantern (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-006.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Face Lantern (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1007": {
+    "id": "1007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krosserdog (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-007.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krosserdog (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1008": {
+    "id": "1008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Twinkle (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-008.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Twinkle (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1009": {
+    "id": "1009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metabee (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-009.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metabee (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1010": {
+    "id": "1010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Landrotor (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-010.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landrotor (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1011": {
+    "id": "1011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bayonet (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-011.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bayonet (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1012": {
+    "id": "1012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baroncastle (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-012.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baroncastle (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1013": {
+    "id": "1013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Redlace (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-013.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Redlace (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1014": {
+    "id": "1014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warbandit (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-014.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warbandit (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1015": {
+    "id": "1015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Henry Agata (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-015.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Henry Agata (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1016": {
+    "id": "1016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arika Amazake (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-016.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arika Amazake (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1017": {
+    "id": "1017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spyke (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-017.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spyke (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1018": {
+    "id": "1018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr. Referee (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-018.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr. Referee (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1019": {
+    "id": "1019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ikki Tenryou (CORE R)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-019.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ikki Tenryou (CORE R)",
+    "type": "Medafighter",
+    "color": "Red",
+    "tokens": [
+      "1805.1"
+    ]
+  },
+  "1020": {
+    "id": "1020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Single Elimination (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-020.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Single Elimination (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1021": {
+    "id": "1021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto's Technique (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-021.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto's Technique (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1022": {
+    "id": "1022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phantom Strike (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-022.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom Strike (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1023": {
+    "id": "1023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Afternoon at the Arcade (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-023.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Afternoon at the Arcade (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1024": {
+    "id": "1024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vorpal (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-024.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vorpal (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1025": {
+    "id": "1025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poison Scorpi (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-025.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poison Scorpi (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1026": {
+    "id": "1026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stone Mirror (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-026.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone Mirror (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1027": {
+    "id": "1027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sprytooth (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-027.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sprytooth (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1028": {
+    "id": "1028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armor Paladin (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-028.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armor Paladin (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1029": {
+    "id": "1029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Derry Mouse (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-029.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Derry Mouse (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1030": {
+    "id": "1030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boarbooster (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-030.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boarbooster (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1031": {
+    "id": "1031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gorem (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-031.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gorem (CORE)",
+    "type": "Medabot",
+    "color": "Purple",
+    "tokens": [
+      "1802"
+    ]
+  },
+  "1032": {
+    "id": "1032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dashbutton (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-032.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dashbutton (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1033": {
+    "id": "1033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Totalizer (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-033.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Totalizer (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1034": {
+    "id": "1034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giggly Jelly (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-034.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giggly Jelly (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1035": {
+    "id": "1035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seagaru (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-035.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seagaru (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1036": {
+    "id": "1036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gentleheart (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-036.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gentleheart (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1037": {
+    "id": "1037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Land-Brakio (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-037.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Land-Brakio (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1038": {
+    "id": "1038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chimerator (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-038.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimerator (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1039": {
+    "id": "1039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squidguts (CORE)",
+        "type": "Medafighter",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-039.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squidguts (CORE)",
+    "type": "Medafighter",
+    "color": "Purple"
+  },
+  "1040": {
+    "id": "1040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shrimplips (CORE)",
+        "type": "Medafighter",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-040.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shrimplips (CORE)",
+    "type": "Medafighter",
+    "color": "Purple",
+    "tokens": [
+      "1804",
+      "1805.1"
+    ]
+  },
+  "1041": {
+    "id": "1041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capt. Awamori (CORE)",
+        "type": "Medafighter",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-041.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capt. Awamori (CORE)",
+    "type": "Medafighter",
+    "color": "Purple"
+  },
+  "1042": {
+    "id": "1042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sloan (CORE)",
+        "type": "Medafighter",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-042.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sloan (CORE)",
+    "type": "Medafighter",
+    "color": "Purple"
+  },
+  "1043": {
+    "id": "1043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corrupting Oil (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-043.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corrupting Oil (CORE)",
+    "type": "Event",
+    "color": "Purple"
+  },
+  "1044": {
+    "id": "1044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hostage Situation (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-044.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hostage Situation (CORE)",
+    "type": "Event",
+    "color": "Purple",
+    "tokens": [
+      "1804"
+    ]
+  },
+  "1045": {
+    "id": "1045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tournament Sponsor (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-045.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tournament Sponsor (CORE)",
+    "type": "Event",
+    "color": "Purple"
+  },
+  "1046": {
+    "id": "1046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grown-Ups Are Useless (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-046.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grown-Ups Are Useless (CORE)",
+    "type": "Event",
+    "color": "Purple"
+  },
+  "1047": {
+    "id": "1047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Earthkrono (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-047.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Earthkrono (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1048": {
+    "id": "1048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuraba (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-048.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuraba (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1049": {
+    "id": "1049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egnigma (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-049.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egnigma (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1050": {
+    "id": "1050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draken (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-050.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draken (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1051": {
+    "id": "1051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paradiver (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-051.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paradiver (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1052": {
+    "id": "1052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kronoform (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-052.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kronoform (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1053": {
+    "id": "1053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wolfeel (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-053.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wolfeel (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1054": {
+    "id": "1054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Femjet (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-054.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Femjet (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1055": {
+    "id": "1055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Digmole (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-055.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Digmole (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1056": {
+    "id": "1056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crimson King (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-056.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crimson King (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1057": {
+    "id": "1057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Air-Ptera (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-057.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Air-Ptera (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1058": {
+    "id": "1058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rokusho (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-058.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rokusho (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1059": {
+    "id": "1059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Solin (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-059.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solin (CORE)",
+    "type": "Medabot",
+    "color": "Blue",
+    "tokens": [
+      "1805.1"
+    ]
+  },
+  "1060": {
+    "id": "1060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Banisher (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-060.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banisher (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1061": {
+    "id": "1061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sumilidon (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-061.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sumilidon (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1062": {
+    "id": "1062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aviking (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-062.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aviking (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1063": {
+    "id": "1063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nae Akihabara (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-063.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nae Akihabara (CORE)",
+    "type": "Medafighter",
+    "color": "Blue"
+  },
+  "1064": {
+    "id": "1064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Researcher (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-064.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Researcher (CORE)",
+    "type": "Medafighter",
+    "color": "Blue"
+  },
+  "1065": {
+    "id": "1065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koji Karakuchi (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-065.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koji Karakuchi (CORE)",
+    "type": "Medafighter",
+    "color": "Blue"
+  },
+  "1066": {
+    "id": "1066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Landing Emergency (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-066.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landing Emergency (CORE)",
+    "type": "Event",
+    "color": "Blue"
+  },
+  "1067": {
+    "id": "1067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuwagata's Technique (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-067.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuwagata's Technique (CORE)",
+    "type": "Event",
+    "color": "Blue"
+  },
+  "1068": {
+    "id": "1068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medapart Purchase (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-068.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medapart Purchase (CORE)",
+    "type": "Event",
+    "color": "Blue"
+  },
+  "1069": {
+    "id": "1069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Select Corps to the Rescue (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-069.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Select Corps to the Rescue (CORE)",
+    "type": "Event",
+    "color": "Blue",
+    "tokens": [
+      "1803"
+    ]
+  },
+  "1070": {
+    "id": "1070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mistyghost (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-070.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mistyghost (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1071": {
+    "id": "1071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ironhorse (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-071.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ironhorse (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1072": {
+    "id": "1072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triumphorn (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-072.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triumphorn (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1073": {
+    "id": "1073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fey Knit (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-073.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fey Knit (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1074": {
+    "id": "1074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Marine (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-074.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Marine (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1075": {
+    "id": "1075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Many Milk (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-075.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Many Milk (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1076": {
+    "id": "1076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fireflash (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-076.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fireflash (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1077": {
+    "id": "1077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orkamar (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-077.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orkamar (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1078": {
+    "id": "1078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hakkado (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-078.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hakkado (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1079": {
+    "id": "1079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sunwitch (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-079.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sunwitch (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1080": {
+    "id": "1080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meduzard (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-080.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meduzard (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1081": {
+    "id": "1081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Starpeda (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-081.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Starpeda (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1082": {
+    "id": "1082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rhinorush (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-082.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rhinorush (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1083": {
+    "id": "1083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pretty Prime (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-083.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pretty Prime (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1084": {
+    "id": "1084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Karin Junmai (CORE)",
+        "type": "Medafighter",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-084.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Karin Junmai (CORE)",
+    "type": "Medafighter",
+    "color": "Green"
+  },
+  "1085": {
+    "id": "1085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kannie (CORE)",
+        "type": "Medafighter",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-085.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kannie (CORE)",
+    "type": "Medafighter",
+    "color": "Green"
+  },
+  "1086": {
+    "id": "1086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milky (CORE)",
+        "type": "Medafighter",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-086.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milky (CORE)",
+    "type": "Medafighter",
+    "color": "Green"
+  },
+  "1087": {
+    "id": "1087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lost in the Witch's Castle (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-087.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lost in the Witch's Castle (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1088": {
+    "id": "1088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Misunderstanding (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-088.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Misunderstanding (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1089": {
+    "id": "1089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warm Care  (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-089.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warm Care  (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1090": {
+    "id": "1090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ant Caves (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-090.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ant Caves (CORE)",
+    "type": "Event",
+    "color": "Green",
+    "tokens": [
+      "1801"
+    ]
+  },
+  "1091": {
+    "id": "1091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ghostly Surprise (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-091.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghostly Surprise (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1092": {
+    "id": "1092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eyes of an Angel (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-092.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eyes of an Angel (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1093": {
+    "id": "1093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Bokchoy (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-093.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Bokchoy (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1094": {
+    "id": "1094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Antacker (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-094.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antacker (CORE)",
+    "type": "Medabot",
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
+  },
+  "1095": {
+    "id": "1095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pentachin (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-095.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pentachin (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1096": {
+    "id": "1096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noctobat (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-096.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noctobat (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1097": {
+    "id": "1097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skelbot (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-097.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skelbot (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1098": {
+    "id": "1098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sagodo (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-098.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sagodo (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1099": {
+    "id": "1099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peppercat (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-099.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peppercat (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1100": {
+    "id": "1100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shamen (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shamen (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1101": {
+    "id": "1101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wonderrabbit (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wonderrabbit (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1102": {
+    "id": "1102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Landmotor (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Landmotor (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1103": {
+    "id": "1103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Octoclam (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Octoclam (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1104": {
+    "id": "1104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drakonfly (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-104.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drakonfly (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1105": {
+    "id": "1105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiralle (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiralle (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1106": {
+    "id": "1106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Succulis (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-106.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Succulis (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1107": {
+    "id": "1107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saldron (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-107.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saldron (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1108": {
+    "id": "1108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babbyblu (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-108.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babbyblu (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1109": {
+    "id": "1109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gillgirl (CORE)",
+        "type": "Medafighter",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-109.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gillgirl (CORE)",
+    "type": "Medafighter",
+    "color": "Yellow"
+  },
+  "1110": {
+    "id": "1110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samantha (CORE)",
+        "type": "Medafighter",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-110.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Samantha (CORE)",
+    "type": "Medafighter",
+    "color": "Yellow"
+  },
+  "1111": {
+    "id": "1111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surprise Tickle (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-111.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surprise Tickle (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1112": {
+    "id": "1112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Outnumber (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-112.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Outnumber (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1113": {
+    "id": "1113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trip Into the River (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-113.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trip Into the River (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1114": {
+    "id": "1114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hachiro's Collection (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-114.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hachiro's Collection (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1115": {
+    "id": "1115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monster of Illusions (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-115.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monster of Illusions (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1116": {
+    "id": "1116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ambiguous (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-116.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ambiguous (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1117": {
+    "id": "1117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turn Monkey (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-117.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn Monkey (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1118": {
+    "id": "1118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kantaroth (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-118.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kantaroth (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1119": {
+    "id": "1119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soniktank (CORE)",
+        "type": "Medabot",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-119.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soniktank (CORE)",
+    "type": "Medabot",
+    "color": "Red"
+  },
+  "1120": {
+    "id": "1120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phantom Lady (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-120.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom Lady (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1121": {
+    "id": "1121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phantom Renegade (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-121.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantom Renegade (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1122": {
+    "id": "1122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lady's Rescue (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-122.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lady's Rescue (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1123": {
+    "id": "1123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whereabouts of the Heart (CORE)",
+        "type": "Event",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-123.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whereabouts of the Heart (CORE)",
+    "type": "Event",
+    "color": "Red"
+  },
+  "1124": {
+    "id": "1124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Floro (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-124.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Floro (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1125": {
+    "id": "1125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mcdosnake (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-125.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mcdosnake (CORE)",
+    "type": "Medabot",
+    "color": "Purple",
+    "tokens": [
+      "1802"
+    ]
+  },
+  "1126": {
+    "id": "1126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Death Phoenix (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-126.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Phoenix (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1127": {
+    "id": "1127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wildfire (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-127.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wildfire (CORE)",
+    "type": "Medabot",
+    "color": "Purple",
+    "tokens": [
+      "1805.1"
+    ]
+  },
+  "1128": {
+    "id": "1128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega-Emperor (CORE)",
+        "type": "Medabot",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-128.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega-Emperor (CORE)",
+    "type": "Medabot",
+    "color": "Purple"
+  },
+  "1129": {
+    "id": "1129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Meta-Evil (CORE)",
+        "type": "Medafighter",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-129.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Meta-Evil (CORE)",
+    "type": "Medafighter",
+    "color": "Purple"
+  },
+  "1130": {
+    "id": "1130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malevolent Deception (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-130.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malevolent Deception (CORE)",
+    "type": "Event",
+    "color": "Purple"
+  },
+  "1131": {
+    "id": "1131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emperor's Judgment (CORE)",
+        "type": "Event",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-131.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emperor's Judgment (CORE)",
+    "type": "Event",
+    "color": "Purple"
+  },
+  "1132": {
+    "id": "1132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Papyrak (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-132.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Papyrak (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1133": {
+    "id": "1133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jorat (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-133.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jorat (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1134": {
+    "id": "1134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cosmo-Alien (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-134.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cosmo-Alien (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1135": {
+    "id": "1135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frappé (CORE)",
+        "type": "Medabot",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-135.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frappé (CORE)",
+    "type": "Medabot",
+    "color": "Blue"
+  },
+  "1136": {
+    "id": "1136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lt. Tokkuri (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-136.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lt. Tokkuri (CORE)",
+    "type": "Medafighter",
+    "color": "Blue",
+    "tokens": [
+      "1803"
+    ]
+  },
+  "1137": {
+    "id": "1137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Aki (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-137.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Aki (CORE)",
+    "type": "Medafighter",
+    "color": "Blue"
+  },
+  "1138": {
+    "id": "1138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Research Test (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-138.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Research Test (CORE)",
+    "type": "Event",
+    "color": "Blue"
+  },
+  "1139": {
+    "id": "1139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Journey to the Past (CORE)",
+        "type": "Event",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-139.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Journey to the Past (CORE)",
+    "type": "Event",
+    "color": "Blue"
+  },
+  "1140": {
+    "id": "1140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neutranurse (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-140.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neutranurse (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1141": {
+    "id": "1141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "May Puppy (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-141.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "May Puppy (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1142": {
+    "id": "1142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shoot Spider (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-142.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shoot Spider (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1143": {
+    "id": "1143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tricerabots (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-143.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tricerabots (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1144": {
+    "id": "1144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greatmotha (CORE)",
+        "type": "Medabot",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-144.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Greatmotha (CORE)",
+    "type": "Medabot",
+    "color": "Green"
+  },
+  "1145": {
+    "id": "1145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Master (CORE)",
+        "type": "Medafighter",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-145.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Master (CORE)",
+    "type": "Medafighter",
+    "color": "Green"
+  },
+  "1146": {
+    "id": "1146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Master's Trial (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-146.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Master's Trial (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1147": {
+    "id": "1147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Flying Fortress (CORE)",
+        "type": "Event",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-147.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Flying Fortress (CORE)",
+    "type": "Event",
+    "color": "Green"
+  },
+  "1148": {
+    "id": "1148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sakura (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-148.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sakura (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1149": {
+    "id": "1149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Antoldier (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-149.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antoldier (CORE)",
+    "type": "Medabot",
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
+  },
+  "1150": {
+    "id": "1150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cordy (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-150.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cordy (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1151": {
+    "id": "1151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Utopian (CORE)",
+        "type": "Medabot",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-151.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Utopian (CORE)",
+    "type": "Medabot",
+    "color": "Yellow"
+  },
+  "1152": {
+    "id": "1152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hachiro Awano (CORE)",
+        "type": "Medafighter",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-152.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hachiro Awano (CORE)",
+    "type": "Medafighter",
+    "color": "Yellow"
+  },
+  "1153": {
+    "id": "1153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Queen Margarita (CORE)",
+        "type": "Medafighter",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-153.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Queen Margarita (CORE)",
+    "type": "Medafighter",
+    "color": "Yellow"
+  },
+  "1154": {
+    "id": "1154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Haunted House (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-154.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Haunted House (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1155": {
+    "id": "1155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Friends Reunited (CORE)",
+        "type": "Event",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-155.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Friends Reunited (CORE)",
+    "type": "Event",
+    "color": "Yellow"
+  },
+  "1156": {
+    "id": "1156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kirara Akita (CORE)",
+        "type": "Medafighter",
+        "color": "Red/Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-156.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kirara Akita (CORE)",
+    "type": "Medafighter",
+    "color": "Red/Purple"
+  },
+  "1157": {
+    "id": "1157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Final Showdown (CORE)",
+        "type": "Event",
+        "color": "Red/Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-157.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Final Showdown (CORE)",
+    "type": "Event",
+    "color": "Red/Purple"
+  },
+  "1158": {
+    "id": "1158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Attack-Tyrano (CORE)",
+        "type": "Medabot",
+        "color": "Purple/Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-158.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attack-Tyrano (CORE)",
+    "type": "Medabot",
+    "color": "Purple/Blue"
+  },
+  "1159": {
+    "id": "1159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Under Arrest (CORE)",
+        "type": "Event",
+        "color": "Purple/Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-159.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Under Arrest (CORE)",
+    "type": "Event",
+    "color": "Purple/Blue"
+  },
+  "1160": {
+    "id": "1160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fligflag (CORE)",
+        "type": "Medabot",
+        "color": "Blue/Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-160.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fligflag (CORE)",
+    "type": "Medabot",
+    "color": "Blue/Green"
+  },
+  "1161": {
+    "id": "1161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kappalord (CORE)",
+        "type": "Medabot",
+        "color": "Blue/Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-161.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kappalord (CORE)",
+    "type": "Medabot",
+    "color": "Blue/Green"
+  },
+  "1162": {
+    "id": "1162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gokudo (CORE)",
+        "type": "Medabot",
+        "color": "Green/Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-162.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gokudo (CORE)",
+    "type": "Medabot",
+    "color": "Green/Yellow"
+  },
+  "1163": {
+    "id": "1163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spitfire (CORE)",
+        "type": "Medabot",
+        "color": "Green/Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-163.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spitfire (CORE)",
+    "type": "Medabot",
+    "color": "Green/Yellow",
+    "tokens": [
+      "1801"
+    ]
+  },
+  "1164": {
+    "id": "1164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clawcray (CORE)",
+        "type": "Medabot",
+        "color": "Yellow/Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-164.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clawcray (CORE)",
+    "type": "Medabot",
+    "color": "Yellow/Red"
+  },
+  "1165": {
+    "id": "1165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toybox (CORE)",
+        "type": "Medabot",
+        "color": "Yellow/Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-165.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toybox (CORE)",
+    "type": "Medabot",
+    "color": "Yellow/Red"
+  },
+  "1166": {
+    "id": "1166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rappy (CORE)",
+        "type": "Medabot",
+        "color": "Red/Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-166.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rappy (CORE)",
+    "type": "Medabot",
+    "color": "Red/Blue",
+    "tokens": [
+      "1805.2",
+      "1806.2"
+    ]
+  },
+  "1167": {
+    "id": "1167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ikki Tenryou (CORE R/B)",
+        "type": "Medafighter",
+        "color": "Red/Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-167.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ikki Tenryou (CORE R/B)",
+    "type": "Medafighter",
+    "color": "Red/Blue"
+  },
+  "1168": {
+    "id": "1168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aquacrown (CORE)",
+        "type": "Medabot",
+        "color": "Blue/Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-168.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aquacrown (CORE)",
+    "type": "Medabot",
+    "color": "Blue/Yellow"
+  },
+  "1169": {
+    "id": "1169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Windsail (CORE)",
+        "type": "Medabot",
+        "color": "Blue/Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-169.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Windsail (CORE)",
+    "type": "Medabot",
+    "color": "Blue/Yellow"
+  },
+  "1170": {
+    "id": "1170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mantaprey (CORE)",
+        "type": "Medabot",
+        "color": "Yellow/Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-170.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mantaprey (CORE)",
+    "type": "Medabot",
+    "color": "Yellow/Purple"
+  },
+  "1171": {
+    "id": "1171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seaslug (CORE)",
+        "type": "Medafighter",
+        "color": "Yellow/Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-171.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seaslug (CORE)",
+    "type": "Medafighter",
+    "color": "Yellow/Purple"
+  },
+  "1172": {
+    "id": "1172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hanumonkey (CORE)",
+        "type": "Medabot",
+        "color": "Purple/Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-172.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hanumonkey (CORE)",
+    "type": "Medabot",
+    "color": "Purple/Green"
+  },
+  "1173": {
+    "id": "1173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hawkdacker (CORE)",
+        "type": "Medabot",
+        "color": "Purple/Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-173.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hawkdacker (CORE)",
+    "type": "Medabot",
+    "color": "Purple/Green"
+  },
+  "1174": {
+    "id": "1174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wonder-Angel (CORE)",
+        "type": "Medabot",
+        "color": "Green/Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-174.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wonder-Angel (CORE)",
+    "type": "Medabot",
+    "color": "Green/Red"
+  },
+  "1175": {
+    "id": "1175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belzelga (CORE)",
+        "type": "Medabot",
+        "color": "Green/Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-175.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belzelga (CORE)",
+    "type": "Medabot",
+    "color": "Green/Red"
+  },
+  "1176": {
+    "id": "1176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-176.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Red",
+    "color": "Red"
+  },
+  "1177": {
+    "id": "1177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jellyfish Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-177.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jellyfish Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Red",
+    "color": "Red"
+  },
+  "1178": {
+    "id": "1178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devil Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-178.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devil Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Red",
+    "color": "Red"
+  },
+  "1179": {
+    "id": "1179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-179.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Red",
+    "color": "Red"
+  },
+  "1180": {
+    "id": "1180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bear Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-180.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bear Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Red",
+    "color": "Red"
+  },
+  "1181": {
+    "id": "1181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jellyfish Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-181.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jellyfish Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Red",
+    "color": "Red"
+  },
+  "1182": {
+    "id": "1182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kabuto Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-182.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kabuto Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Red",
+    "color": "Red"
+  },
+  "1183": {
+    "id": "1183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bear Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Red",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-183.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bear Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Red",
+    "color": "Red"
+  },
+  "1184": {
+    "id": "1184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabbit Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-184.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rabbit Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Purple",
+    "color": "Purple"
+  },
+  "1185": {
+    "id": "1185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bear Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-185.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bear Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Purple",
+    "color": "Purple"
+  },
+  "1186": {
+    "id": "1186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tortoise Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-186.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tortoise Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Purple",
+    "color": "Purple"
+  },
+  "1187": {
+    "id": "1187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabbit Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-187.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rabbit Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Purple",
+    "color": "Purple"
+  },
+  "1188": {
+    "id": "1188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tortoise Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-188.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tortoise Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Purple",
+    "color": "Purple"
+  },
+  "1189": {
+    "id": "1189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-189.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Purple",
+    "color": "Purple"
+  },
+  "1190": {
+    "id": "1190",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evil Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-190.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evil Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Purple",
+    "color": "Purple"
+  },
+  "1191": {
+    "id": "1191",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jellyfish Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Purple",
+        "color": "Purple",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-191.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jellyfish Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Purple",
+    "color": "Purple"
+  },
+  "1192": {
+    "id": "1192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alien Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-192.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alien Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Blue",
+    "color": "Blue",
+    "tokens": [
+      "1805.1"
+    ]
+  },
+  "1193": {
+    "id": "1193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kraken Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-193.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kraken Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Blue",
+    "color": "Blue"
+  },
+  "1194": {
+    "id": "1194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuwagata Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-194.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuwagata Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Blue",
+    "color": "Blue"
+  },
+  "1195": {
+    "id": "1195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alien Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-195.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alien Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Blue",
+    "color": "Blue"
+  },
+  "1196": {
+    "id": "1196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuwagata Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-196.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuwagata Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Blue",
+    "color": "Blue"
+  },
+  "1197": {
+    "id": "1197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devil Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-197.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devil Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Blue",
+    "color": "Blue"
+  },
+  "1198": {
+    "id": "1198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuwagata Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-198.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuwagata Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Blue",
+    "color": "Blue"
+  },
+  "1199": {
+    "id": "1199",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mouse Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Blue",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-199.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mouse Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Blue",
+    "color": "Blue"
+  },
+  "1200": {
+    "id": "1200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spider Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-200.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spider Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Green",
+    "color": "Green"
+  },
+  "1201": {
+    "id": "1201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Penguin Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-201.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penguin Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Green",
+    "color": "Green"
+  },
+  "1202": {
+    "id": "1202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unicorn Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-202.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unicorn Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Green",
+    "color": "Green"
+  },
+  "1203": {
+    "id": "1203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "? Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-203.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "? Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Green",
+    "color": "Green"
+  },
+  "1204": {
+    "id": "1204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spider Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-204.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spider Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Green",
+    "color": "Green"
+  },
+  "1205": {
+    "id": "1205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kraken Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-205.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kraken Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Green",
+    "color": "Green"
+  },
+  "1206": {
+    "id": "1206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spider Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-206.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spider Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Green",
+    "color": "Green"
+  },
+  "1207": {
+    "id": "1207",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Penguin Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Green",
+        "color": "Green",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-207.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penguin Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Green",
+    "color": "Green"
+  },
+  "1208": {
+    "id": "1208",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evil Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-208.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evil Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Yellow",
+    "color": "Yellow"
+  },
+  "1209": {
+    "id": "1209",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bat Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-209.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bat Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Yellow",
+    "color": "Yellow",
+    "tokens": [
+      "1805.1"
+    ]
+  },
+  "1210": {
+    "id": "1210",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Medal Lv1 (CORE)",
+        "type": "Medal-Lv1-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-210.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Medal Lv1 (CORE)",
+    "type": "Medal-Lv1-Yellow",
+    "color": "Yellow",
+    "tokens": [
+      "1801"
+    ]
+  },
+  "1211": {
+    "id": "1211",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bat Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-211.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bat Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Yellow",
+    "color": "Yellow"
+  },
+  "1212": {
+    "id": "1212",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-212.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Yellow",
+    "color": "Yellow"
+  },
+  "1213": {
+    "id": "1213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mouse Medal Lv2 (CORE)",
+        "type": "Medal-Lv2-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-213.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mouse Medal Lv2 (CORE)",
+    "type": "Medal-Lv2-Yellow",
+    "color": "Yellow"
+  },
+  "1214": {
+    "id": "1214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabbit Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-214.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rabbit Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Yellow",
+    "color": "Yellow"
+  },
+  "1215": {
+    "id": "1215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tortoise Medal Lv3 (CORE)",
+        "type": "Medal-Lv3-Yellow",
+        "color": "Yellow",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-215.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tortoise Medal Lv3 (CORE)",
+    "type": "Medal-Lv3-Yellow",
+    "color": "Yellow"
+  },
+  "1216": {
+    "id": "1216",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salty (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-216.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salty (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1217": {
+    "id": "1217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chidori Tenryou (CORE)",
+        "type": "Medafighter",
+        "color": "Red",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-217.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chidori Tenryou (CORE)",
+    "type": "Medafighter",
+    "color": "Red"
+  },
+  "1218": {
+    "id": "1218",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jouzou Tenryou (CORE)",
+        "type": "Medafighter",
+        "color": "Blue",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-218.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jouzou Tenryou (CORE)",
+    "type": "Medafighter",
+    "color": "Blue"
+  },
+  "1801": {
+    "id": "1801",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Antacker (CORE)",
+        "type": "Medabot",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antacker (CORE)",
+    "type": "Medabot",
+    "color": "Colorless"
+  },
+  "1802": {
+    "id": "1802",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Maxsnake (CORE)",
+        "type": "Medabot",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maxsnake (CORE)",
+    "type": "Medabot",
+    "color": "Colorless"
+  },
+  "1803": {
+    "id": "1803",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Select Grunt (CORE)",
+        "type": "Medafighter",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Select Grunt (CORE)",
+    "type": "Medafighter",
+    "color": "Colorless"
+  },
+  "1804": {
+    "id": "1804",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Rubberobo Grunt (CORE)",
+        "type": "Medafighter",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rubberobo Grunt (CORE)",
+    "type": "Medafighter",
+    "color": "Colorless"
+  },
+  "1901": {
+    "id": "1901",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Peppercat (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Peppercat (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-01b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Peppercat (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1902": {
+    "id": "1902",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Belzelga (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Belzelga (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-02b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Belzelga (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1903": {
+    "id": "1903",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Fligflag (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Fligflag (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-03b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Fligflag (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1904": {
+    "id": "1904",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Gokudo (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Gokudo (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-04b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Gokudo (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1905": {
+    "id": "1905",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Toybox (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Toybox (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-05b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Toybox (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1906": {
+    "id": "1906",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Metabee (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Metabee (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-06b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Metabee (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1907": {
+    "id": "1907",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Warbandit (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Warbandit (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-07b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Warbandit (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1908": {
+    "id": "1908",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Rokusho (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Rokusho (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-08b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Rokusho (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1909": {
+    "id": "1909",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Neutranurse (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Neutranurse (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-09b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Neutranurse (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1910": {
+    "id": "1910",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Seagaru (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Seagaru (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-10b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Seagaru (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1911": {
+    "id": "1911",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Saldron (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Saldron (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-11b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Saldron (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1912": {
+    "id": "1912",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Sailor-Multi (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Sailor-Multi (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-12b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Sailor-Multi (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1913": {
+    "id": "1913",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Sumilidon (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Sumilidon (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-13b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Sumilidon (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1914": {
+    "id": "1914",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Attack-Tyrano (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Attack-Tyrano (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-14b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Attack-Tyrano (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1915": {
+    "id": "1915",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leader Mega-Emperor (CORE)",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-15.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Leader Mega-Emperor (CORE) Tinpet",
+        "type": "Leader",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-L-15b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leader Mega-Emperor (CORE)",
+    "type": "Leader",
+    "color": "Colorless"
+  },
+  "1805.1": {
+    "id": "1805.1",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Hammer (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-5_1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hammer (CORE)",
+    "type": "Medapart",
+    "color": "Colorless"
+  },
+  "1805.2": {
+    "id": "1805.2",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Right Balloon (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-5_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Right Balloon (CORE)",
+    "type": "Medapart",
+    "color": "Colorless"
+  },
+  "1806.2": {
+    "id": "1806.2",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Left Balloon (CORE)",
+        "type": "Medapart",
+        "color": "Colorless",
+        "image": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/1-CORE/CORE-T-6_2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Left Balloon (CORE)",
+    "type": "Medapart",
+    "color": "Colorless"
+  }
+}

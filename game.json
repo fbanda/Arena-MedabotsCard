@@ -1,0 +1,603 @@
+{
+  "name": "Medal Clash",
+  "menuBackgroundImage": "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaBanner.png",
+  "defaultRessources": {
+    "backgrounds": [
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat1.jpg",
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat2.png",
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat3.png",
+		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat4.png"
+    ],
+    "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/starter.json"
+  },
+  "customHelp": "To build a Leader:\n1. Hide a card in your hand: Right-click -> Hide -OR- Z + Click.\n2. Move the hidden card under your Leader: Right-click -> Group -> Click on Leader -OR- G + Click + Click on Leader.\n3. Flip the Leader: Right-click -> Flip -OR- Ctrl+Z + Click.\n\nTo unbuild a Leader:\n1. Move the card under your Leader to your trash: Drag\n2. Flip the Leader: Right-click -> Flip -OR- Ctrl+Z + Click.\n\nTo play a Medapart: Right-click -> Group -> Click on Equipped Medabot -OR- G + Click + Click on Equipped Medabot.\nWhen playing from the Medawatch, first Drag or Click -> Search -> Play.\n\nFor more information and individual card rulings go to: https://fbanda.github.io/MedalClashWeb/",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://fbanda.github.io/Arena-MedabotsCard/cardlist.json",
+    "cardBack": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack.png",
+    "extraCardBacks": {
+      "Medal-Lv1-Red": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MR1.png",
+      "Medal-Lv2-Red": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MR2.png",
+      "Medal-Lv3-Red": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MR3.png",
+      "Medal-Lv1-Purple": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MP1.png",
+      "Medal-Lv2-Purple": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MP2.png",
+      "Medal-Lv3-Purple": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MP3.png",
+      "Medal-Lv1-Blue": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MB1.png",
+      "Medal-Lv2-Blue": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MB2.png",
+      "Medal-Lv3-Blue": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MB3.png",
+      "Medal-Lv1-Green": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MG1.png",
+      "Medal-Lv2-Green": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MG2.png",
+      "Medal-Lv3-Green": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MG3.png",
+      "Medal-Lv1-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MY1.png",
+      "Medal-Lv2-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MY2.png",
+      "Medal-Lv3-Yellow": "https://fbanda.github.io/Arena-MedabotsCard/CardImages/0-Common/CardBack_MY3.png"
+    }
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "color"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Classic",
+        "deckRuleset": "Standard",
+        "customCategories": []
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+		  "min": 44,
+          "max": 54,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Leader",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Red",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Red",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Red",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Purple",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Blue",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Green",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv1-Yellow",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv2-Yellow",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Medal-Lv3-Yellow",
+            "min": 0,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Sideboard",
+            "min": 0,
+            "max": 10
+          }
+        ]
+      }
+    }
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+		"triggeredByButton": true,
+        "startingHandSize": "6",
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
+        "mulliganCycle": {
+          "info": "You can mulligan to 5 cards, only once.",
+          "steps": [
+            "toTop",
+            "shuffle",
+            "applyPenalty",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 6
+          }
+        }
+      },
+      "beforeGameStart": {
+        "chooseAnotherStartingPlayer": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Leader",
+          "Medabots",
+          "Medal-Lv1",
+          "Medal-Lv2",
+          "Medal-Lv3",
+          "Others",
+          "Medawatch"
+        ],
+        "layout": {
+          "direction": "row",
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "width": "5rem"
+              },
+              "content": [
+                {
+                  "section": "Energy",
+                  "style": {
+                    "align-self": "center"
+                  }
+                },
+                {
+                  "section": "Medawatch",
+                  "style": {
+                    "align-self": "center"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": {
+                    "height": "60%"
+                  },
+                  "content": [
+                    {
+                      "section": "Leader",
+                      "style": {
+                        "width": "10rem"
+                      }
+                    },
+                    {
+                      "section": "Medabots"
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": {
+                    "height": "40%"
+                  },
+                  "content": [
+                    {
+                      "section": "Medal-Lv1",
+                      "style": {
+                        "width": "7rem"
+                      }
+                    },
+                    {
+                      "section": "Medal-Lv2",
+                      "style": {
+                        "width": "7rem"
+                      }
+                    },
+                    {
+                      "section": "Medal-Lv3",
+                      "style": {
+                        "width": "7rem"
+                      }
+                    },
+                    {
+                      "section": "Others"
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ],
+          "isSymetricalForOpponents": false
+        },
+        "categoriesAlreadyOnBoard": [
+          "Leader",
+          "Medal-Lv1-Red->Medal-Lv1",
+          "Medal-Lv1-Purple->Medal-Lv1",
+          "Medal-Lv1-Blue->Medal-Lv1",
+          "Medal-Lv1-Green->Medal-Lv1",
+          "Medal-Lv1-Yellow->Medal-Lv1",
+          "Medal-Lv2-Red->Medal-Lv2",
+          "Medal-Lv2-Purple->Medal-Lv2",
+          "Medal-Lv2-Blue->Medal-Lv2",
+          "Medal-Lv2-Green->Medal-Lv2",
+          "Medal-Lv2-Yellow->Medal-Lv2",
+          "Medal-Lv3-Red->Medal-Lv3",
+          "Medal-Lv3-Purple->Medal-Lv3",
+          "Medal-Lv3-Blue->Medal-Lv3",
+          "Medal-Lv3-Green->Medal-Lv3",
+          "Medal-Lv3-Yellow->Medal-Lv3"
+        ],
+        "autoPlayFromHand": {
+          "Medabot": "Medabots",
+          "Medafighter": "Others",
+		  "Medapart": "Medabots",
+          "Event": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Medabot": "Medabots",
+          "Medafighter": "Others",
+		  "Medapart": "Medabots",
+          "Event": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Transport",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Leader": {
+            "title": "Leader",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Leader)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Medal-Lv1": {
+            "title": "Medal-Lv1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Medal Lv1)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Medal-Lv2": {
+            "title": "Medal-Lv2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Medal Lv2)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Medal-Lv3": {
+            "title": "Medal-Lv3",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Medal Lv3)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Medabots": {
+            "title": "Medabots",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Medabots)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Others": {
+            "title": "Others",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field (Medafighters)",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Medawatch": {
+            "title": "Medawatch",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Medawatch",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Energy": {
+            "type": "custom",
+            "defaultValue": {
+              "current": 0,
+              "max": 0
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "3rem",
+                  "height": "2rem",
+                  "borderRadius": "0.3rem"
+                },
+                "className": "d-flex justify-content-between"
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "d-flex gap-2 align-items-center",
+                    "style": {
+                      "borderRadius": "0.3rem",
+                      "backgroundColor": "#78ff00"
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Energy.current }}",
+                        "style": {
+                          "width": "2.4rem",
+                          "--input-background-color": "#51aa0b"
+                        }
+                      },
+                      "onChange": "game.data.Energy.current = value; chatLog('Energy changed to ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                    }
+                  ]
+                }
+              ]
+            },
+            "events": {
+              "onNewTurn": "if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6); game.data.Energy.current = game.data.Energy.max; if(game.turn.count > 1 && game.data.Energy.current < 2) game.data.Energy.current = 2; chatLog('Energy restored to ' + game.data.Energy.current ) }"
+            }
+          }
+        }
+      }
+    }
+  }
+}
