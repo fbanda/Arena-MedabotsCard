@@ -3,10 +3,10 @@
   "menuBackgroundImage": "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaBanner.png",
   "defaultRessources": {
     "backgrounds": [
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat1.jpg",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat2.png",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat3.png",
-		"https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat4.png"
+      "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat1.jpg",
+      "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat2.png",
+      "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat3.png",
+      "https://fbanda.github.io/Arena-MedabotsCard/Assets/ArenaPlaymat4.png"
     ],
     "decksUrl": "https://fbanda.github.io/Arena-MedabotsCard/starter.json"
   },
@@ -48,7 +48,7 @@
     "deckRulesets": {
       "Standard": {
         "general": {
-		  "min": 44,
+          "min": 44,
           "max": 54,
           "maxPerCard": 3
         },
@@ -161,7 +161,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-		"triggeredByButton": true,
+        "triggeredByButton": true,
         "startingHandSize": "6",
         "mulliganCount": {
           "min": 0,
@@ -198,10 +198,10 @@
       "sections": {
         "customSections": [
           "Leader",
-          "Medabots",
           "Medal-Lv1",
           "Medal-Lv2",
           "Medal-Lv3",
+          "Medabots",
           "Others",
           "Medawatch"
         ],
@@ -308,247 +308,71 @@
         "autoPlayFromHand": {
           "Medabot": "Medabots",
           "Medafighter": "Others",
-		  "Medapart": "Medabots",
+          "Medapart": "Medabots",
           "Event": "Stack"
         },
         "autoPlayFromStack": {
           "Medabot": "Medabots",
           "Medafighter": "Others",
-		  "Medapart": "Medabots",
+          "Medapart": "Medabots",
           "Event": "Discard"
         },
         "sectionsDict": {
-          "Hand": {
-            "isDefaultSection": true,
-            "title": "Hand",
-            "isHidden": "opponent-only",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "autoPayFrom": true,
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Deck": {
-            "isDefaultSection": true,
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Transport",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed hidden",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Leader": {
-            "title": "Leader",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Leader)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Medal-Lv1": {
-            "title": "Medal-Lv1",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv1)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Medal-Lv2": {
-            "title": "Medal-Lv2",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv2)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Medal-Lv3": {
-            "title": "Medal-Lv3",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medal Lv3)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Medabots": {
-            "title": "Medabots",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medabots)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Others": {
-            "title": "Others",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Field (Medafighters)",
             "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noAutoPayTo": true
           },
           "Medawatch": {
-            "title": "Medawatch",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
             "displayedTitle": "Medawatch",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "noQuickActions": true,
+            "noAutoPayTo": true
           },
           "Energy": {
             "type": "custom",
