@@ -410,14 +410,14 @@
                           "--input-background-color": "#51aa0b"
                         }
                       },
-                      "onChange": "game.data.Energy.current = value; chatLog('Energy changed to ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                      "onChange": "game.data.Energy.current = Number(value); functions.chatLog('Energy changed to ' + value + ' (' + deltaDisplay + ')')"
                     }
                   ]
                 }
               ]
             },
             "events": {
-              "onNewTurn": "if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6); game.data.Energy.current = game.data.Energy.max; if(game.turn.count > 1 && game.data.Energy.current < 2) game.data.Energy.current = 2; chatLog('Energy restored to ' + game.data.Energy.current ) }"
+              "onNewTurn": "if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6); game.data.Energy.current = game.data.Energy.max; if(game.turn.count > 1 && game.data.Energy.current < 2) game.data.Energy.current = 2; functions.chatLog('Energy restored to ' + game.data.Energy.current ) }"
             }
           }
         }
