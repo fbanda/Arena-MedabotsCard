@@ -417,7 +417,7 @@
               ]
             },
             "events": {
-			  "onPlayersBoardCardSelected": "const leader = cards.Leader?.[0]; functions.updateCards([leader], { isFlipped = true })",
+			  "onPlayersBoardCardSelected": "const leader = cards.Leader?.[0]; functions.updateCards([leader], { isFlipped: true })",
               "onNewTurn": "if (game.turn.isMyTurn) { game.data.Energy.max = Math.min(game.data.Energy.max + 1, 6); game.data.Energy.current = game.data.Energy.max; if(game.turn.count > 1 && game.data.Energy.current < 2) game.data.Energy.current = 2; functions.chatLog('Energy restored to ' + game.data.Energy.current ) }"
             }
           }
