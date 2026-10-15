@@ -448,7 +448,7 @@
     }
   },
   {
-    "title": "Yellow-Red Wheeled",
+    "title": "Yellow-Red Wheel/C2-",
     "id": "DefaultStarterCORE05",
     "game": "Medal Clash",
     "format": [
@@ -543,7 +543,7 @@
       "Medafighter": [
         {
           "count": 2,
-          "id": "1052"
+          "id": "1152"
         }
       ],
       "Event": [
@@ -781,7 +781,7 @@
     }
   },
   {
-    "title": "Yellow-Purple Rubberobo Gang",
+    "title": "Yellow-Purple Rubberobo Scrap",
     "id": "DefaultStarterCORE08",
     "game": "Medal Clash",
     "format": [
@@ -880,7 +880,7 @@
         },
         {
           "count": 2,
-          "id": "1071"
+          "id": "1171"
         }
       ],
       "Event": [
@@ -977,11 +977,11 @@
         },
         {
           "count": 3,
-          "id": "1035"
+          "id": "1173"
         },
         {
           "count": 3,
-          "id": "1173"
+          "id": "1035"
         }
       ],
       "Medafighter": [
@@ -1083,10 +1083,6 @@
           "id": "1009"
         },
         {
-          "count": 2,
-          "id": "1083"
-        },
-        {
           "count": 3,
           "id": "1011"
         },
@@ -1097,6 +1093,10 @@
         {
           "count": 2,
           "id": "1012"
+        },
+        {
+          "count": 2,
+          "id": "1083"
         }
       ],
       "Medafighter": [
